@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.6.22)  22 JUL 2016 16:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.6.22)  22 JUL 2016 17:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -368,8 +368,17 @@ Package: geometry 2010/09/12 v5.6 Page Geometry
 )
 (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
+) (./report.aux
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
 )
-No file report.aux.
 \openout1 = `report.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
@@ -387,7 +396,7 @@ LaTeX Font Info:    ... okay on input line 31.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 31.
 LaTeX Font Info:    ... okay on input line 31.
 LaTeX Font Info:    Try loading font information for T1+ptm on input line 31.
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ptm.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
@@ -432,6 +441,8 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 31.
 LaTeX Info: Redefining \pageref on input line 31.
 LaTeX Info: Redefining \nameref on input line 31.
+
+(./report.out) (./report.out)
 \@outlinefile=\write5
 \openout5 = `report.out'.
 
@@ -479,7 +490,7 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24.88> not available
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 37.
 
-</home/deepti/Documents/input/images/gne.jpg, id=4, 160.6pt x 167.62625pt>
+</home/deepti/Documents/input/images/gne.jpg, id=168, 160.6pt x 167.62625pt>
 File: /home/deepti/Documents/input/images/gne.jpg Graphic file (type jpg)
 
 <use /home/deepti/Documents/input/images/gne.jpg>
@@ -509,16 +520,24 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [2]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 48.
+ (./report.toc [3
+
+])
 \tf@toc=\write6
 \openout6 = `report.toc'.
 
- [3
 
-]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[4] (./report.lof)
 \tf@lof=\write7
 \openout7 = `report.lof'.
 
- [4
+ [5
 
 ]
 Chapter 1.
@@ -527,7 +546,7 @@ LaTeX Font Info:    Try loading font information for T1+cmss on input line 57.
 File: t1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 (/home/deepti/Documents/input/company.tex
-<input/images/gndec.jpg, id=29, 556.0775pt x 470.75874pt>
+<input/images/gndec.jpg, id=257, 556.0775pt x 470.75874pt>
 File: input/images/gndec.jpg Graphic file (type jpg)
 
 <use input/images/gndec.jpg>
@@ -554,9 +573,10 @@ File: omsptm.fd
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 25.
 
-<input/images/aw.jpg, id=37, 500.87125pt x 232.87pt>
+<input/images/aw.jpg, id=264, 500.87125pt x 232.87pt>
 File: input/images/aw.jpg Graphic file (type jpg)
- <use input/images/aw.jpg>
+
+<use input/images/aw.jpg>
 Package pdftex.def Info: input/images/aw.jpg used on input line 40.
 (pdftex.def)             Requested size: 350.60747pt x 163.00787pt.
 
@@ -677,7 +697,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--7
  []
 
 ) (/home/deepti/Documents/input/tech/doxygen.tex
-</home/deepti/Documents/input/images/doxygen.jpeg, id=132, 404.51125pt x 125.46
+</home/deepti/Documents/input/images/doxygen.jpeg, id=336, 404.51125pt x 125.46
 875pt>
 File: /home/deepti/Documents/input/images/doxygen.jpeg Graphic file (type jpg)
  <use /home/deepti/Documents/input/images/doxygen.jpeg>
@@ -709,7 +729,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [13 </home/deepti/Documents/input/images/doxygen.jpeg>]
-</home/deepti/Documents/input/images/donald.png, id=146, 170.88844pt x 237.1359
+</home/deepti/Documents/input/images/donald.png, id=346, 170.88844pt x 237.1359
 4pt>
 File: /home/deepti/Documents/input/images/donald.png Graphic file (type png)
  <use /home/deepti/Documents/input/images/donald.png>
@@ -730,7 +750,7 @@ LaTeX Font Info:    Try loading font information for T1+cmtt on input line 50.
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 ))
 (/home/deepti/Documents/input/tech/git.tex
-</home/deepti/Documents/input/images/github.jpg, id=154, 401.5pt x 301.125pt>
+</home/deepti/Documents/input/images/github.jpg, id=351, 401.5pt x 301.125pt>
 File: /home/deepti/Documents/input/images/github.jpg Graphic file (type jpg)
 
 <use /home/deepti/Documents/input/images/github.jpg>
@@ -774,7 +794,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--49
  []
 
 
-</home/deepti/Documents/input/images/git.jpg, id=163, 219.95218pt x 219.95218pt
+</home/deepti/Documents/input/images/git.jpg, id=357, 219.95218pt x 219.95218pt
 >
 File: /home/deepti/Documents/input/images/git.jpg Graphic file (type jpg)
  <use /home/deepti/Documents/input/images/git.jpg>
@@ -850,7 +870,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [18]) (/home/deepti/Documents/input/tech/octave.tex
-</home/deepti/Documents/input/images/O1.png, id=185, 479.7925pt x 281.05pt>
+</home/deepti/Documents/input/images/O1.png, id=371, 479.7925pt x 281.05pt>
 File: /home/deepti/Documents/input/images/O1.png Graphic file (type png)
 
 <use /home/deepti/Documents/input/images/O1.png>
@@ -893,7 +913,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [20]
 Chapter 3.
 (./input/Conclusion/results.tex
-</home/deepti/Documents/input/images/plot1.png, id=197, 578.16pt x 433.62pt>
+</home/deepti/Documents/input/images/plot1.png, id=381, 578.16pt x 433.62pt>
 File: /home/deepti/Documents/input/images/plot1.png Graphic file (type png)
 
 <use /home/deepti/Documents/input/images/plot1.png>
@@ -907,11 +927,7 @@ Chapter 4.
 (./input/Conclusion/future.tex) (./input/legacy.tex)
 (./input/Conclusion/bibliography.tex [22
 
-])
-
-Package lastpage Warning: Rerun to get the references right on input line 71.
-
-
+]) 
 AED: lastpage setting LastPage
 [23
 
@@ -939,17 +955,11 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 71.
  (./report.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 71.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 71.
+Package rerunfilecheck Info: File `report.out' has not changed.
+(rerunfilecheck)             Checksum: C180B8371F46F326CBC3BFD67C2279A0;2977.
 
 
-Package rerunfilecheck Warning: File `report.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `report.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  C180B8371F46F326CBC3BFD67C2279A0;2977.
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were multiply-defined labels.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 71.
  )
@@ -958,10 +968,10 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 71.
 ### simple group (level 1) entered at line 6 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 7661 strings out of 493085
- 109433 string characters out of 6136917
- 297128 words of memory out of 5000000
- 10860 multiletter control sequences out of 15000+600000
+ 7714 strings out of 493085
+ 110227 string characters out of 6136917
+ 297337 words of memory out of 5000000
+ 10902 multiletter control sequences out of 15000+600000
  40791 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  36i,11n,43p,1147b,466s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -974,10 +984,10 @@ public/cm-super/sfss1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss
 dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utm
 ri8a.pfb>
-Output written on report.pdf (28 pages, 671713 bytes).
+Output written on report.pdf (29 pages, 678003 bytes).
 PDF statistics:
- 270 PDF objects out of 1000 (max. 8388607)
- 220 compressed objects within 3 object streams
- 107 named destinations out of 1000 (max. 500000)
- 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 449 PDF objects out of 1000 (max. 8388607)
+ 397 compressed objects within 4 object streams
+ 108 named destinations out of 1000 (max. 500000)
+ 374 words of extra memory for PDF output out of 10000 (max. 10000000)
 
