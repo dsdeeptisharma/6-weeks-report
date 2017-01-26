@@ -1,0 +1,32 @@
+\section*{\fontsize{16}{14}\selectfont Aim: Implement the concept of PHP and MySQL.}
+<?php\\
+error\_reporting(0);\\
+echo "concept of php and mysql"."<br>";\\
+\$first\_name="mitaly";\\
+\$email\_id=" mitaly @gmail.com";\\
+\$password="m";\\
+@mysql\_connect("localhost","root","");\\
+@mysql\_select\_db("college");\\
+\$s="insert into project(name,email,password) VALUES('\$first\_name','\$email\_id','\$password')";\\
+\$query=@mysql\_query(\$s);\\
+if(!\$query)\{\\
+ echo "failed!".mysql\_error(); \}\\
+else\{\\
+echo "successfully".'<br>';\}\\
+?>\\
+<?php\\
+@mysql\_connect("localhost","root","");\\
+@mysql\_select\_db("college");\\
+\$select = "Select * from project";\\
+\$results = mysql\_query(\$select);\\
+if(\$results)\{\\
+while(\$result=mysql\_fetch\_assoc(\$results))\{\\
+?>\\
+<tr>\\
+<td><a href=""><?php echo \$result['name']?></a></td>\\
+<td><a href=""><?php echo \$result['email']?></a></td>\\
+<td><a href=""><?php echo \$result['password']?></a></td>\\
+</tr>\\
+<?php \} \} \\
+?>
+

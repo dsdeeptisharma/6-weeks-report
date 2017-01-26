@@ -1,0 +1,34 @@
+\section*{\fontsize{16}{14}\selectfont Aim: Develop a concept of Email in PHP.}
+<!DOCTYPE html>\\
+<html>\\
+<head>\\
+<script>\\
+function sendEmail() \{\\
+        var xmlhttp = new XMLHttpRequest();\\
+        xmlhttp.onreadystatechange = function() \{\\
+            if (this.readyState == 4 \&\& this.status == 200) \{\\
+                document.getElementById("response").innerHTML = this.responseText; \} \} \\
+        xmlhttp.open("GET", "sendEmail.php", true);\\
+        xmlhttp.send();\} \\
+    </script>\\
+</head>\\
+<body>\\
+    <center>\\
+        <p>Press button to send Email to kajalthakurldh@gmail.com</p> <br>\\
+        <button id="btnEmail" onclick="sendEmail()">Send</button>\\
+        <p id="response"></p>\\
+    </center>\\
+</body>\\
+</html>\\
+
+\textbf{sendEmail.php}\\
+<?php\\
+\$msg = "First line of text Second line of text";\\
+// use wordwrap() if lines are longer than 70 characters\\
+\$msg = wordwrap(\$msg,70);\\
+// send email\\
+if(mail("kajalthakurldh @gmail.com","My subject",\$msg))\{\\
+    echo "Email sent successfully";\\
+\}else\{ \\
+    echo "Unable to sent Email successfully"; \} ?> 
+

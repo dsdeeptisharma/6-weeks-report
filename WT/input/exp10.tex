@@ -1,0 +1,71 @@
+\section*{\fontsize{16}{14}\selectfont Aim:Develop an HTML file to imlement the styles related to lists, tables using
+cascading style sheets.}
+<!DOCTYPE html>\\
+<html> <head>\\
+<title>tali</title>\\
+<link rel=stylesheet href=exp10.css type=text/css>\\
+</head> <body>\\
+<p><u>Example of unordered lists:</u></p>\\
+<p>Shapes as bullets</p>\\
+<ul class="a">\\
+<li>Coffee</li>\\
+<li>Tea</li>\\
+<li>CocaCola</li> </ul><br>\\
+<p>Images as bullets</p>\\
+<ul class="b">\\
+<li>Coffee</li>\\
+<li>Tea</li>\\
+<li>Coca Cola</li> </ul>\\
+<div style=position:absolute;top:0;left:70 \%> \\
+<p><u>Example of ordered lists:</u></p>\\
+<p>Alphabets as numbers</p>\\
+<ol class="c">\\
+<li>Coffee</li>\\
+<li>Tea</li>\\
+<li>Coca Cola</li> </ol> </div>\\
+<div style=position:absolute;top:27\%;left:70\%>\\
+<p>Roman numberas numbers</p>\\
+<ol class="d">\\
+<li>Coffee</li>\\
+<li>Tea</li>\\
+<li>Coca Cola</li> </ol> </div>\\
+<div style="overflow-x:auto;">\\
+<table>\\
+<caption><b>Table Styling</b></caption><tr>\\
+<th>Company</th>\\
+<th>Contact</th>\\
+<th>Country</th> </tr> <tr>\\
+<td>Alfreds Futterkiste</td>\\
+<td>Maria Anders</td>\\
+<td>Germany</td> </tr> <tr>\\
+<td>Centro comercial Moctezuma</td>\\
+<td>Francisco Chang</td>\\
+<td>Mexico</td> </tr>\\
+<tr>\\
+<td>Ernst Handel</td>\\
+<td>Roland Mendel</td>\\
+<td>Austria</td> </tr> <tr>\\
+<td>Island Trading</td>\\
+<td>Helen Bennett</td>\\
+<td>UK</td> </tr>\\
+</table> </div> </body> </html>
+\section*{\fontsize{16}{14}\selectfont \underline{External CSS file saved as "exp10.css"}}
+ul.a \{ list-style-type: circle;\\
+list-style-position: inside; \}\\
+ul.b \{ list-style-image: url('sub.png');\\
+list-style-position: outside; \}\\
+ol.c \{ list-style-type: lower-alpha;\\
+padding: 5px;\\
+margin-left: 50px; \}\\
+ol.d \{ list-style-type: upper-roman;\\
+margin: 30px;\\
+background: ff9999; \}\\
+table \{ width: 100\%;\\
+font-family:aerial,sans-serif;\\
+border-collapse:collapse; \}\\
+th \{ text-align: left;\\
+border-bottom: 1px solid green; \}
+td \{ height: 50px;\\
+vertical-align: bottom;\\
+border-bottom: 1px solid blue; \}\\
+tr:hover \{background-color:grey\}\\

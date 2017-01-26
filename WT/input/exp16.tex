@@ -1,0 +1,19 @@
+\section*{\fontsize{16}{14}\selectfont Aim: Implement a user defined function in javascript to get an array of values and show them in ascending order. }
+<!DOCTYPE html>\\
+<html>\\
+<body>\\
+<p>Click the button to sort the array.</p>\\
+<button onclick="mysort()">Try it</button>\\
+<p id="sorting"></p>\\
+<script>\\
+var arr = [23,42,56,73,65,55,32,11,12,47,39,87,22,64,81,15,75];\\
+document.getElementById("sorting").innerHTML = arr;\\
+function mysort() \\
+\{\\
+    arr.sort();\\
+    document.getElementById("sorting").innerHTML = arr;\\
+\}\\
+</script>\\
+</body>\\
+</html>
+
