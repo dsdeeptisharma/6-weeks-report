@@ -1,0 +1,83 @@
+\section{Overview}
+\subsection{What is Octave?}
+Octave is an open-source interactive software system for numerical computations and
+graphics. It is particularly designed for matrix computations: solving simultaneous equations, computing eigenvectors and eigenvalues and so on. In many real-world engineering
+problems the data can be expressed as matrices and vectors, and boil down to these forms
+of solution.\\\\
+In addition, Octave can display data in a variety of different ways, and it
+also has its own programming language which allows the system to be extended. It can
+be thought of as a very powerful, programmable, graphical calculator.\\
+Octave makes it easy to solve a wide range of numerical problems, allowing you to spend more time
+experimenting and thinking about the wider problem.
+Octave was originally developed as a companion software to undergraduate course
+book on chemical reactor design.\\
+ It is currently being developed under the leadership of
+Dr. J.W. Eaton and released under the GNU General Public Licence. Octave’s usefulness
+is enhanced in that it is mostly syntax compatible with MATLAB which is commonly used
+in industry and academics.
+\subsection{ What Octave is not?}
+Octave is designed to solve mathematical problems
+numerically, that is by calculating values in the computer's memory. This means that it can't always give an exact solution
+to a problem, and it should not be confused with programs such as Mathematica or Maple, which give symbolic
+solutions by doing the algebraic manipulation. \\
+This does not make it better or worse, its just used for different tasks. Most real mathematical problems
+(particularly engineering ones!) do not have neat symbolic solutions.
+\subsection{ Who uses Octave?}
+Octave and MATLAB are widely used by engineers and scientists, in both industry and
+academia for performing numerical computations, and for developing and testing mathematical algorithms.\\
+ For example, NASA use it to develop spacecraft docking systems;
+\begin{itemize}
+\item Jaguar Racing use it to display and analyse data transmitted from their Formula 1 cars.
+\item Sheffield University use it to develop software to recognise cancerous cells. 
+\item It makes it very easy to write mathematical programs quickly, and display data in a wide range of
+different ways.
+\end{itemize}
+\subsection{Why not use a ‘normal’ highlevel language, e.g. C++ ?}
+C++ and other industry-standard programming languages are normally designed for writing general-purpose software. However, solutions to mathematical problems take time to
+program using C++, and the language does not natively support many mathematical concepts, or displaying graphics.\\
+Octave is specially designed to solve these kind of problems,
+perform calculations, and display the results. 
+
+\section{The Existing System}
+There are few existing systems for solving this particular problem like Sage or other softwares but
+they don’t have following features required by our mentor. These system were not open source
+and free web based software that were need.
+All exiting system suffers from at least one of the following system.
+ \subsection{Limitations of previous system }
+\begin{itemize}
+\item No batch mode. 
+
+\item Don't give output as png images.
+
+\item They are costly.
+
+\item They don't save output.
+
+\item They need installation and a lot of system resources. 
+
+\item They don't save user session.
+
+\item Earlier it was on CGI, now moved to PHP. 
+\end{itemize}
+\subsection{Advantages of shifting the system from CGI to PHP:}
+\begin{itemize}
+\item PHP was specially designed for a websites, the facilities that web designers typically want in a scripting language are built into it.
+\item Another convenience is its handling of form input.
+\item Accessing databases is just as easy. There are built-in facilities in PHP to access MySQL, Dbase, Oracle, InterBase, and so on.
+\item Need to MIME encode your message? There's a function to do it for you too.
+\item When PHP scripts runs, If in case  you get error then messages will be like pinpointing the offending lines in your code to help you locate the error.
+\end{itemize} 
+\section{User Requirement Analysis}
+\begin{enumerate}
+\item Perform most of difficult Calculation work.
+\item Make it work like batch mode. so, that user can give inputs 
+together and relax.
+\item Help M.Tech and Civil Engineer to analysis structure.
+\item Automatic calculation of modal force and modes.
+\item Reduce the time for analysis.
+\item Provide on-line way to analysis so that individual does not have to 
+install anything.
+\end{enumerate}
+
+
+
