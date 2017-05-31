@@ -1,0 +1,49 @@
+
+\section*{\underline{\textbf{Manual Installation of IIS}}}
+\subsection*{Configure a default Web site}
+When you install IIS, it is preconfigured to serve as a default Web site; however, you may want to change some of the settings. To change the basic settings for the Web site and to emulate the steps that are required to set up Apache for the first time by using the configuration file:
+\begin{itemize}
+\item Log on to the Web server computer as an administrator.
+\item Click Start, point to Settings, and then click Control Panel.
+\item Double-click Administrative Tools, and then double-click Internet Services Manager.
+\item Right-click the Web site that you want to configure in the left pane, and then click Properties.
+\item Click the Web site tab.
+\item Type a description for the Web site in the Description box.
+\item Type the Internet Protocol (IP) address to use for the Web site or leave the All (Unassigned) default setting.
+\item Modify the Transmission Control Protocol (TCP) port as appropriate.
+\item Click the Home Directory tab.
+\item To use a folder on the local computer, click A directory on this computer, and then click Browse to locate the folder that you want to use.
+\item To use a folder that has been shared from another computer on the network, click A share located on another computer, and then either type the network path or click Browse to select the shared folder.
+\item Click Read to grant read access to the folder (required).
+\item Click OK to accept the Web site properties.
+\end{itemize}
+\section*{Create a new Website}
+To create a new Web site in Apache, you must set up a virtual host and configure the individual settings for the host. If you are using IIS, you can create a new Web site by translating the following terms to the IIS equivalents:\\
+\\
+\begin{tabular}{|l| |r|} \hline
+Apache Term & IIS Term \\ \hline
+Document Root & IIS Web Site Home Directory \\ \hline
+Server Name & IIS Host Header \\ \hline
+Listen & IIS IP Address and TCP Port \\ \hline
+\end{tabular}\\
+\subsection*{To create a new Web site in IIS, follow these steps:}
+\begin{itemize}
+\item Log on to the Web server computer as an administrator.
+\item Click Start, point to Settings, and then click Control Panel.
+\item Double-click Administrative Tools, and then double-click Internet Services Manager.
+\item Click Action, point to New, and then click Web Site.
+\item After the Web Site Creation Wizard starts, click Next.
+\item Type a description for the Web site.
+\item This description is used internally to identify the Web site in Internet Services Manager only.
+\item Select the IP address to use for the site.
+\item If you select All (unassigned), the Web site is accessible on all interfaces and all configured IP addresses.
+\item Type the TCP port number to publish the site on.
+\item Type the Host Header name (the real name that is used to access this site).
+\item Click Next.
+\item Either type the path to the folder that is holding the Web site documents or click Browse to select the folder, and then click Next.
+\item Select the access permissions for the Web site, and then click Next.
+\item Click finish.
+\end{itemize}
+Apache listens for requests on TCP/IP port 80. The default installation of Skype also listens on this port and will cause conflicts. To switch it off, start Skype and choose Tools > Options > Advanced > Connection. Ensure you untick "Use port 80 and 443 as alternatives for incoming connections".
+
+

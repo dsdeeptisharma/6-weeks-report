@@ -1,0 +1,66 @@
+\section*{\fontsize{16}{14}\selectfont Aim: Demonstrate the creation of tables and frames in a web page using HTML.}
+<!DOCTYPE HTML>\\
+<html>\\
+<head>\\
+<style>\\
+.cen{position:absolute;left:70%;right:2%;top:7%;}\\
+</style>\\
+<link rel="stylesheet" type="text/css" href="/home/deepti/Desktop/theme.css">\\
+<title>Tables \& Frames</title></head><body>\\
+<center><h2>Lets Explore More</h2></center>\\
+<p><b>Various Subjects in Btech. are as follows: </p></b></br>\\
+<table class="table1"><tr>\\
+<th>Subject</th>\\
+<th>Semester</th>\\
+</tr><tr>\\
+<td>OS</td>\\
+<td>IV</td>\\
+</tr><tr>\\
+<td>CNS</td>\\
+<td>V</td>\\
+</tr><tr>\\
+<td>DCLD</td>\\
+<td>III</td></tr>\\
+</table></br>\\
+<p><b>Now let us see some more using different table styles.</b></p></br>\\
+<table align="left" class ="table2"><tr>\\
+<th>Subject</th>\\
+<th>Semester</th></tr>\\
+<tr>\\
+<td>DS</td>\\
+<td>IV</td>\\
+</tr><tr>\\
+<td>WT</td>\\
+<td>V</td></tr>\\
+</table></br>\\
+</br><table class="table2">\\
+<tr>\\
+<th rowspan="3">Phone no.</th>\\
+<td>2307860</td>\\
+</tr>\\
+<tr>\\
+<td>2307960</td></tr><tr>\\
+<td>2378860</td></tr>\\
+</table>\\
+</br><br><br>\\
+<table class="table2"><tr>\\
+<th colspan="3">Some Streams</th></tr><tr>\\
+    <td>BTech.</td>\\
+    <td>MBA</td>\\
+    <td>Phd</td></tr>\\
+</table>\\
+<p><b>Here is the iframe</b></p>\\
+ <iframe src="http://gndec.ac.in" height="470" width="375"></iframe> \\
+</body>\\
+</html>\\
+\section*{\fontsize{16}{14}\selectfont \underline{External CSS file saved as "theme.css"}}
+table.table1,tr,td\\
+\{\\
+border: 1px solid black;\\
+\}\\* \\*
+table.table2,tr,td\\
+\{\\
+border: 1px solid black;\\
+border-collapse: collapse;\\
+\}
+

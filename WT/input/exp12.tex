@@ -1,0 +1,119 @@
+%\begin{center}
+%\huge \bf{Experiment-12}\vskip 0.2in
+%\end{center}
+\subsection*{{\fontsize{16}{14} Aim: Demonstrate the use of loops and arrays in PHP.}}
+<!DOCTYPE html>\\
+<html>\\
+<title>Loops</title>\\
+<body>\\
+<?php\\
+\$t = date("sec");\\
+\$k=date("H");\\
+\$v=date("D,M,Y");\\
+echo "<b>Current Timing: </b> \$t";\\
+echo "<p align=right>\$v</p> ";\\
+echo "<h2><center>PHP Loops and Statements</center></h2>";\\
+echo "<b>if loop</b><br>";\\
+if (\$k < "10") \{\\
+    echo "Have a good morning!";\\
+\}\\
+ elseif (\$k < "20") \{\\
+    echo "Have a good day!";\\
+\} else \{\\
+    echo "Have a good night!";\\
+\}\\
+echo "<br>";\\
+echo "<div style=position:absolute;left:60\%;top:19\%>";\\
+\$favcolor = "red";\\
+echo "<b>Switch Case</b><br>";\\
+switch (\$favcolor) \{\\
+    case "red":\\
+        echo "Your favorite color is red!";\\
+        break;\\
+    case "blue":\\
+        echo "Your favorite color is blue!";\\
+        break;\\
+    case "green":\\
+        echo "Your favorite color is green!";\\
+        break;\\
+    default:\\
+        echo "Your favorite color is neither red, blue, nor green!";\\
+\}\\
+echo "</div>";\\
+echo "<br>";\\
+\$x = 1;\\
+echo "<b>while loop</b><br>";\\
+while(\$x <= 2) {\\
+    echo "The number is: \$x <br>";\\
+    \$x++;
+\}\\
+echo "<div style=position:absolute;left:60\%;top:29\%>";\\
+echo "<b>do while loop</b> <br>";\\
+do \{\\
+    echo "The number is: \$x <br>";\\
+    \$x++;\\
+\} while (\$x <= 2);\\
+echo "</div>";\\
+echo "<h2><center>Playing with Arrays</center></h2>";\\
+echo "<b>Original Array1</b><br>";\\
+\$cars = array("Volvo", "BMW", "Toyota");\\
+\{echo "I like " . \$cars[0] . ", " . \$cars[1] . " and " . \$cars[2] . ".";
+\}\\
+echo "<div style=position:absolute;left:60\%;top:47\%>";\\
+echo "<b>Original Array2</b><br>";\\
+\$age = array("Peter"=>"35", "Ben"=>"37", "Joe"=>"43");\\
+foreach(\$age as \$x => \$x\_value) \{\\
+ echo  "\$x  is  \$x\_value years old";\\
+    echo "<br>";\\
+\}\\
+echo "</div>";\\
+\$n=count(\$cars);\\
+echo "<br><br><br>";\\
+sort(\$cars);\\
+echo "<b>sort()</b><br>";\\
+for(\$x = 0; \$x < \$n; \$x++) \{\\
+    echo \$cars[\$x];\\
+    echo "<br>";\\
+\}\\
+echo "<br>";\\
+echo "<div style=position:absolute;left:45\%;top:60\%>";\\
+echo "<b>rsort()</b> <br>";\\
+ rsort(\$cars);\\
+for(\$x = 0; \$x < \$n; \$x++) \{\\
+    echo \$cars[\$x];\\
+    echo "<br>";\\
+\}\\
+echo "</div>";\\
+echo "<div style=position:absolute;left:75\%;top:60\%>";\\
+echo "<b>asort() </b><br>";\\
+asort(\$age);\\
+foreach(\$age as \$x => \$x\_value) \{\\
+    echo "Key=" . \$x . ", Value=" . \$x\_value;\\
+    echo "<br>";\\
+\}\\
+echo "</div>";\\
+echo "<b>ksort </b><br>";\\
+ksort(\$age);\\
+foreach(\$age as \$x => \$x\_value) {\\
+    echo "Key=" . \$x . ", Value=" . \$x\_value;\\
+    echo "<br>";\\
+}\\
+echo "<div style=position:absolute;left:45\%;top:73\%>";\\
+echo "<b>arsort</b><br>";\\
+echo arsort(\$age);\\
+foreach(\$age as \$x => \$x\_value) \{\\
+    echo "Key=" . \$x . ", Value=" . \$x\_value;\\
+    echo "<br>";\\
+\}\\
+echo "</div>";\\
+echo "<div style=position:absolute;left:75\%;top:73\%>";\\
+echo "<b>krsort()</b><br>";\\
+echo krsort(\$age);\\
+foreach(\$age as \$x => \$x\_value) \{\\
+ echo "Key=" . \$x . ", Value=" . \$x\_value;\\
+    echo "<br>";\\
+echo "</div>";\\
+\}\\
+?>\\
+</body>\\
+</html>

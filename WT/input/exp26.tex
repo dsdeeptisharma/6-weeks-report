@@ -1,0 +1,18 @@
+\section*{\fontsize{16}{14}\selectfont Aim: Create an HTML file to implement the concept of document object model using Javascript.}
+Index.html\\
+<html>\\
+  <head>\\
+    <script>\\
+       // run this function when the document is loaded\\
+       window.onload = function() \{\\
+         // create a couple of elements in an otherwise empty HTML page\\
+         var heading = document.createElement("h1");\\
+         var heading\_text = document.createTextNode("Big Head!");\\
+         heading.appendChild(heading\_text);\\
+         document.body.appendChild(heading);\\
+      \}\\
+    </script>\\
+  </head>\\
+  <body>\\
+  </body>\\
+</html>\\
