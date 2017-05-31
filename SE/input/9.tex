@@ -1,0 +1,45 @@
+
+\section*{\fontsize{16}{14}\selectfont Aim: Perform debugging using Big Tracking Tools like BUGZILLA or BUG BIT}
+
+\textbf{SOFTWARE BUG}\\
+A software bug is an error, flaw, failure or fault in a computer program or system that causes it to produce an incorrect or unexpected result, or to behave in unintended ways. Most bugs arise from mistakes and errors made in either a program's source code or its design, or in components and operating systems used by such programs. A few are caused by compilers producing incorrect code. A program that contains a large number of bugs, and/or bugs that seriously interfere with its functionality, is said to be buggy (defective).
+Bugs trigger errors that may have ripple effects. Bugs may have subtle effects or cause the program to crash or freeze the computer. Others qualify as security bugs and might, for example, enable a malicious user to bypass access controls in order to obtain unauthorized privileges.\\\\
+\textbf{PREVENTION OF SOFTWARE BUG}\\
+The software industry has put much effort into reducing bug counts. These include:
+\begin{itemize}
+\item \textbf{Typographical errors}\\
+Bugs usually appear when the programmer makes a logic error. Various innovations in programming style and defensive programming are designed to make these bugs less likely, or easier to spot. Some typos, especially of symbols or logical/mathematical operators, allow the program to operate incorrectly, while others such as a missing symbol or misspelled name may prevent the program from operating. Compiled languages can reveal some typos when the source code is compiled.\\
+\item \textbf{Development methodologies}\\
+Several schemes assist managing programmer activity so that fewer bugs are produced. Software engineering (which addresses software design issues as well) applies many techniques to prevent defects. For example, formal program specifications state the exact behaviour of programs so that design bugs may be eliminated. Unfortunately, formal specifications are impractical for anything but the shortest programs, because of problems of combinatorial explosion and indeterminacy.
+Unit testing involves writing a test for every function (unit) that a program is to perform.
+In test-driven development unit tests are written before the code and the code is not considered complete until all tests complete successfully.
+Agile software development involves frequent software releases with relatively small changes. Defects are revealed by user feedback.
+Open source development allows anyone to examine source code. A school of thought popularized by Eric S. Raymond as Linus's Law says that popular open-source software has more chance of having few or no bugs than other software, because "given enough eyeballs, all bugs are shallow". This assertion has been disputed, however: computer security specialist Elias Levy wrote that "it is easy to hide vulnerabilities in complex, little understood and undocumented source code," because, "even if people are reviewing the code, that doesn't mean they're qualified to do so." An example of this actually happening, accidentally, was the 2008 OpenSSL vulnerability in Debian.\\
+\item \textbf{Programming language support}\\
+Programming languages include features to help prevent bugs, such as static type systems, restricted namespaces and modular programming. For example, when a programmer writes (pseudocode) LET REAL\_VALUE PI = "THREE AND A BIT", although this may be syntactically correct, the code fails a type check. Compiled languages catch this without having to run the program. Interpreted languages catch such errors at runtime. Some languages deliberate exclude features that easily lead to bugs, at the expense of slower performance: the general principle being that, it is almost always better to write simpler, slower code than inscrutable code that runs slightly faster, especially considering that maintenance cost is substantial. For example, the Java programming language does not support pointer arithmetic; implementations of some languages such as Pascal and scripting languages often have runtime bounds checking of arrays, at least in a debugging build.
+\item \textbf{Code analysis}\\
+Tools for code analysis help developers by inspecting the program text beyond the compiler's capabilities to spot potential problems. Although in general the problem of finding all programming errors given a specification is not solvable (see halting problem), these tools exploit the fact that human programmers tend to make certain kinds of simple mistakes often when writing software.
+\item \textbf{Instrumentation}\\
+Tools to monitor the performance of the software as it is running, either specifically to find problems such as bottlenecks or to give assurance as to correct working, may be embedded in the code explicitly (perhaps as simple as a statement saying PRINT "I AM HERE"), or provided as tools. It is often a surprise to find where most of the time is taken by a piece of code, and this removal of assumptions might cause the code to be rewritten.
+\end{itemize}
+\textbf{DEBUGGING}\\
+Finding and fixing bugs, or debugging, is a major part of computer programming. the most difficult part of debugging is finding the bug. Once it is found, correcting it is usually relatively easy. Programs known as debuggers help programmers locate bugs by executing code line by line, watching variable values, and other features to observe program behaviour. Without a debugger, code may be added so that messages or values may be written to a console or to a window or log file to trace program execution or show values.
+However, even with the aid of a debugger, locating bugs is something of an art. It is not uncommon for a bug in one section of a program to cause failures in a completely different section, [citation needed] thus making it especially difficult to track (for example, an error in a graphics rendering routine causing a file I/O routine to fail), in an apparently unrelated part of the system.
+Sometimes, a bug is not an isolated flaw, but represents an error of thinking or planning on the part of the programmer. Such logic errors require a section of the program to be overhauled or rewritten. As a part of code review, stepping through the code and imagining or transcribing the execution process may often find errors without ever reproducing the bug as such.
+More typically, the first step in locating a bug is to reproduce it reliably. Once the bug is reproducible, the programmer may use a debugger or other tool while reproducing the error to find the point at which the program went astray.
+Some bugs are revealed by inputs that may be difficult for the programmer to re-create. One cause of the Therac-25 radiation machine deaths was a bug (specifically, a race condition) that occurred only when the machine operator very rapidly entered a treatment plan; it took days of practice to become able to do this, so the bug did not manifest in testing or when the manufacturer attempted to duplicate it. Other bugs may disappear when the program is run with a debugger; these heisenbugs (humorously named after the Heisenberg uncertainty principle).\\\\
+\textbf{BUGZILLA}\\
+Bugzilla is a web-based general-purpose bugtracker and testing tool originally developed and used by the Mozilla project, and licensed under the Mozilla Public License.
+Released as open-source software by Netscape Communications in 1998, it has been adopted by a variety of organizations for use as a bug tracking system for both free and open-source software and proprietary projects and products. Bugzilla is used, among others, by the Mozilla Foundation, WebKit, Linux kernel, FreeBSD, GNOME, KDE, Apache, Red Hat, Eclipse and LibreOffice. It is also self-hosting.\\\\
+\textbf{REQUIREMENTS OF BUGZILLA:}\\
+Bugzilla's system requirements include:
+\begin{itemize}
+\item A compatible database management system
+\item A suitable release of Perl 5
+\item An assortment of Perl modules
+\item A compatible web server
+\item A suitable mail transfer agent, or any SMTP server
+\end{itemize}
+Currently supported database systems are MySQL, PostgreSQL, Oracle, and SQLite. Bugzilla is usually installed on Linux using the Apache HTTP Server, but any web server that supports CGI such as Lighttpd, Hiawatha, Cherokee can be used. Bugzilla's installation process is command line driven and runs through a series of stages where system requirements and software capabilities are checked.
+
+

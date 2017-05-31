@@ -1,0 +1,2203 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE office:document-content PUBLIC "-//OpenOffice.org//DTD OfficeDocument 2.0//EN" "office.dtd"> 
+ 
+<?xtpipes file="oo-text.4xt" ?> 
+<office:document-content  
+xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0"  
+xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0"  
+xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0"  
+xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0"  
+xmlns:fo="http://www.w3.org/1999/XSL/Format"  
+xmlns:xlink="http://www.w3.org/1999/xlink"  
+xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0"  
+xmlns:dc="http://purl.org/dc/elements/1.1/"  
+xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0"  
+xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" 
+xmlns:svg="http://www.w3.org/2000/svg"  
+xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0"  
+xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0"  
+xmlns:math="http://www.w3.org/1998/Math/MathML"  
+xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0"  
+xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0"  
+xmlns:ooo="http://openoffice.org/2004/office"  
+xmlns:ooow="http://openoffice.org/2004/writer"  
+xmlns:oooc="http://openoffice.org/2004/calc"  
+xmlns:dom="http://www.w3.org/2001/xml-events"  
+xmlns:xforms="http://www.w3.org/2002/xforms"  
+xmlns:xsd="http://www.w3.org/2001/XMLSchema"  
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  
+xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0"  
+xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" 
+xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" 
+office:version="1.0" > 
+<office:automatic-styles> <?tex4ht-lg file="report.lg" ?> <style:style style:name="Figure" style:family="section"> 
+<style:section-properties fo:margin-left="0.25in" fo:margin-right="0.25in" style:editable="true"> 
+<style:columns fo:column-count="0" fo:column-gap="0in"/> </style:section-properties> </style:style> 
+<style:page-layout style:name="Standard-page-layout"> 
+<style:page-layout-properties fo:page-width="614.295pt" fo:page-height="794.96999pt" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.7874in" fo:margin-bottom="0.7874in" fo:margin-left="0.7874in" fo:margin-right="0.7874in" style:writing-mode="lr-tb" style:footnote-max-height="0in"> 
+<style:footnote-sep style:width="0.0071in" style:distance-before-sep="0.0398in" style:distance-after-sep="0.0398in" style:adjustment="left" style:rel-width="25%" style:color="#000000"/> 
+</style:page-layout-properties> 
+<style:header-style/> <style:footer-style/> </style:page-layout> 
+ 
+</office:automatic-styles>     <office:body><office:text>
+   <text:section text:style-name="begin-end-env" text:name="begin-end-env-1" ><text:p text:style-name="begin-env-p" ></text:p><!--begin center-->
+<text:p text:style-name="center" >
+ <text:span 
+text:style-name="ptmb8t-x-x-248">Software Engineering</text:span>
+</text:p><text:p text:style-name="center" ><text:span text:style-name="textbf" ></text:span><text:line-break/>
+<text:span 
+text:style-name="ptmr8t-x-x-172">Practical File</text:span>
+</text:p><text:section text:name="fig" text:style-name="Figure" ><text:p text:style-name="bigskip"></text:p> <draw:frame draw:name="input/images/gne.jpg" text:anchor-type="as-char" draw:z-index="0" ><draw:image 
+xlink:href="Pictures/input/images/gne.jpg"  
+xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" /><!--draw:name="IMG"  
+--></draw:frame>
+<text:p text:style-name="bigskip"></text:p></text:section>
+<text:p text:style-name="center" ></text:p><text:p><draw:frame draw:name="begin-end-env-2" draw:style-name="env-frame" text:anchor-type="as-char" svg:width="90%" draw:z-index="0" > <draw:text-box ><!--begin flushleft-->
+<text:p text:style-name="flushleft" >
+ <text:span 
+text:style-name="ptmb8t-x-x-144">Submitted By:</text:span><text:line-break/>
+<text:span 
+text:style-name="ptmr8t-x-x-144">Deepti Sharma</text:span><text:line-break/>
+<text:span 
+text:style-name="ptmr8t-x-x-144">D3CSE-A1</text:span><text:line-break/>
+<text:span 
+text:style-name="ptmr8t-x-x-144">1410821</text:span><text:line-break/>
+<text:span 
+text:style-name="ptmr8t-x-x-144">(145021)</text:span>
+</text:p></draw:text-box> </draw:frame></text:p> <!--end flushleft-->
+                                                                                               
+                                                                                               
+<text:span 
+text:style-name="ptmb8t-x-x-172"><text:s/></text:span> <text:p><draw:frame draw:name="begin-end-env-3" draw:style-name="env-frame" text:anchor-type="as-char" svg:width="90%" draw:z-index="0" > <draw:text-box >
+ <!--begin flushright-->
+ <text:p text:style-name="flushright" >
+  <text:span 
+text:style-name="ptmb8t-x-x-144">Submitted To:</text:span><text:line-break/>
+ <text:line-break/>
+ <text:span 
+text:style-name="ptmr8t-x-x-144">Prof. Manjot Kaur Gill</text:span><text:line-break/>
+ <text:span 
+text:style-name="ptmr8t-x-x-144">CSE Department</text:span>
+ </text:p></draw:text-box> </draw:frame></text:p> <!--end flushright--><text:line-break/><text:line-break/>
+_____________________________________________________________________________________________<text:line-break/>
+<text:span 
+text:style-name="ptmr8t-x-x-172">Department of Computer Science &#x0026; Engineering</text:span><text:line-break/>
+<text:span 
+text:style-name="ptmr8t-x-x-172">Guru Nanak Dev Engineering College</text:span><text:line-break/>
+<text:span 
+text:style-name="ptmr8t-x-x-172">Ludhiana 141006</text:span>
+<text:p text:style-name="end-env-p" ></text:p></text:section><!--end center-->
+   <text:p text:style-name="newpage"></text:p>
+<!--l. 57--><text:p text:style-name="First-line-indent">
+                                                                                               
+                                                                                               
+</text:p> 
+<!--l. 72--><text:p text:style-name="First-line-indent">   </text:p> 
+<text:p text:style-name="newpage"></text:p>
+<!--l. 72--><text:p text:style-name="First-line-indent">
+                                                                                               
+                                                                                               
+                                                                                               
+                                                                                               
+   </text:p> 
+<!--start of chapter--><text:p text:style-name="clearpage"></text:p><text:h text:style-name="Heading-1" text:outline-level="1" ><text:span text:style-name="chapter" >Chapter<text:s/>1 </text:span><text:line-break/><t4htlink 
+href="#x1-10001" name="x1-10001"></t4htlink>Practical-1</text:h> 
+
+<t4htlink 
+ href="#Q1-1-2" name="Q1-1-2"></t4htlink>
+<!--start of section*--><text:h text:style-name="Heading-2" text:outline-level="2" ><t4htlink 
+href="#x1-20001" name="x1-20001"></t4htlink><text:span 
+text:style-name="ptmr8t-x-x-160">Aim: Conduct feasibility study for some given problem.</text:span></text:h> 
+
+   <text:section text:style-name="begin-end-env" text:name="begin-end-env-4" ><text:p text:style-name="begin-env-p" ></text:p><!--begin center-->
+<text:p text:style-name="center" >
+<text:span text:style-name="underline" ><text:span text:style-name="textbf" ><text:span 
+text:style-name="ptmb8t-x-x-120">Project: Web-Octave</text:span></text:span></text:span>
+</text:p><text:p text:style-name="end-env-p" ></text:p></text:section><!--end center-->
+<!--l. 3--><text:p text:style-name="First-line-indent">   Octave is an open-source interactive software system for numerical computations and graphics. It is
+particularly designed for matrix computations: solving simultaneous equations, computing eigenvectors and
+eigenvalues and so on. In many real-world engineering problems the data can be expressed as matrices and
+vectors, and boil down to these forms of solution.<text:line-break 
+/><text:line-break 
+/>This project discusses mainly about Weboctave. I devised this tool which basically is collection of direct and
+iterative methods to solve problems of various equations, matrices, graph plotting and ordinary linear
+equations.<text:line-break 
+/><text:line-break 
+/>The increasing importance of numerical methods in applied sciences have led to enhanced demand to deal with
+techniques of numerical analysis. The reason for this is that numerical methods can give the solution to applied
+problems when ordinary analytical methods fail.<text:line-break 
+/><text:line-break 
+/>Furthermore, coming back it deals with Weboctave which is web interface to use octave i.e. anyone
+can use this service and need not have octave installed on their systems and can use this service
+remotely.<text:line-break 
+/>Also, this project is completely open source and the entire code is available to the user as and when required.
+There is Complete developer&#x2019;s Documentation as well as User manual alongwith it that helps using it a lot
+easier.
+   </text:p> 
+<text:section text:style-name="begin-end-env" text:name="begin-end-env-5" ><text:p text:style-name="begin-env-p" ></text:p><!--begin center-->
+<text:p text:style-name="center" >
+<text:span text:style-name="underline" ><text:span text:style-name="textbf" ><text:span 
+text:style-name="ptmb8t-x-x-120">Feasibility Study</text:span></text:span></text:span>
+</text:p><text:p text:style-name="end-env-p" ></text:p></text:section><!--end center-->
+<!--l. 15--><text:p text:style-name="First-line-indent">   Feasibility study is made to see if the project on completion will serve the purpose of the organization for the
+amount of work, effort and the time that spend on it. Feasibility study lets the developer foresee the future of the
+project and the usefulness.<text:line-break 
+/><text:line-break 
+/>Objectives of feasibility study are listed below:
+      </text:p> 
+<!--l. 18--><text:list text:style-name="Itemize" > 
+
+      <text:list-item>
+                                                                                               
+                                                                                               
+      <text:p text:style-name="Inside-itemize" >To analyze whether the software will meet organizational requirements.
+      </text:p> 
+</text:list-item> 
+
+      <text:list-item>
+      <text:p text:style-name="Inside-itemize" >To determine whether the software can be implemented using the current technology and within
+      the specified budget and schedule.
+      </text:p> 
+</text:list-item> 
+
+      <text:list-item>
+      <text:p text:style-name="Inside-itemize" >To determine whether the software can be integrated with other existing software.</text:p> 
+</text:list-item> 
+</text:list > 
+
+<!--l. 22--><text:p text:style-name="Text-body"><text:span text:style-name="textbf" ><text:span text:style-name="Emphasis" ><text:span 
+text:style-name="ptmbi8t-x-x-120">An Overview of the Study</text:span></text:span></text:span><text:line-break 
+/><text:line-break 
+/><text:span text:style-name="textbf" ><text:span 
+text:style-name="ptmb8t-x-x-120">Feasibility study involves:</text:span></text:span>
+      </text:p> 
+<text:list text:style-name="Enumerate" > 
+
+      <text:list-item>
+      <text:p text:style-name="Inside-enumerate" ><text:span text:style-name="textbf" ><text:span 
+text:style-name="ptmb8t-x-x-120">Technical Feasibility:</text:span></text:span> Technical feasibility is carried out to determine whether the project has the
+      capability, in terms of software and hardware to handle and fulfill the user requirements. The assessment is
+      based on an outline design of system requirements in terms of Input, Processes, Output, Cross-Platform
+      and Procedures.<text:line-break 
+/>Technological issues raised during the investigation are:
+           </text:p> 
+<!--l. 28--><text:list text:style-name="Itemize" > 
+
+           <text:list-item>
+           <text:p text:style-name="Inside-itemize" >Does the existing technology sufficient for the suggested one?
+           </text:p> 
+</text:list-item> 
+
+           <text:list-item>
+           <text:p text:style-name="Inside-itemize" >Can the system expand if developed?</text:p> 
+</text:list-item> 
+</text:list > 
+
+      <text:p text:style-name="Inside-enumerate" ><text:span text:style-name="Emphasis" ><text:span 
+text:style-name="ptmri8t-x-x-120">Languages/Technologies used:</text:span></text:span>
+           </text:p> 
+<!--l. 33--><text:list text:style-name="Itemize" > 
+
+           <text:list-item>
+           <text:p text:style-name="Inside-itemize" >HTML &#x0026; CSS
+           </text:p> 
+</text:list-item> 
+
+           <text:list-item>
+           <text:p text:style-name="Inside-itemize" >Octave
+           </text:p> 
+</text:list-item> 
+
+           <text:list-item>
+           <text:p text:style-name="Inside-itemize" >PHP
+                                                                                               
+                                                                                               
+           </text:p> 
+</text:list-item> 
+
+           <text:list-item>
+           <text:p text:style-name="Inside-itemize" >Apache(Web Server)</text:p> 
+</text:list-item> 
+</text:list > 
+
+      </text:list-item> 
+
+      <text:list-item>
+      <text:p text:style-name="Inside-enumerate" ><text:span text:style-name="textbf" ><text:span 
+text:style-name="ptmb8t-x-x-120">Economical Feasibility:</text:span></text:span> It includes quantification and identification of all the benefits expected. This
+      assessment typically involves a cost/ benefits analysis. It is important to identify cost and benefit factors,
+      which can be categorized as follows:
+           </text:p> 
+<!--l. 40--><text:list text:style-name="Itemize" > 
+
+           <text:list-item>
+           <text:p text:style-name="Inside-itemize" ><text:span text:style-name="Emphasis" ><text:span 
+text:style-name="ptmri8t-x-x-120">Development &#x0026; Operation Cost:</text:span></text:span> It&#x2019;s an open source project and hence free of cost for users.</text:p> 
+</text:list-item> 
+</text:list > 
+
+      </text:list-item> 
+
+      <text:list-item>
+      <text:p text:style-name="Inside-enumerate" ><text:span text:style-name="textbf" ><text:span 
+text:style-name="ptmb8t-x-x-120">Market Feasibility:</text:span></text:span> The market needs analysis to view the market demand,competitive activities etc.
+      There is a need for this project for following things:
+           </text:p> 
+<!--l. 44--><text:list text:style-name="Itemize" > 
+
+           <text:list-item>
+           <text:p text:style-name="Inside-itemize" >Perform most of difficult Calculation work.
+           </text:p> 
+</text:list-item> 
+
+           <text:list-item>
+           <text:p text:style-name="Inside-itemize" >Make it work like batch mode. So, that user can give inputs together and relax.
+           </text:p> 
+</text:list-item> 
+
+           <text:list-item>
+           <text:p text:style-name="Inside-itemize" >Help M.Tech and Civil Engineer to analysis structure.
+           </text:p> 
+</text:list-item> 
+
+           <text:list-item>
+           <text:p text:style-name="Inside-itemize" >Reduce the time for analysis.
+           </text:p> 
+</text:list-item> 
+
+           <text:list-item>
+           <text:p text:style-name="Inside-itemize" >Provide on-line way to analysis so that individual does not have to install anything.</text:p> 
+</text:list-item> 
+</text:list > 
+
+      </text:list-item> 
+
+      <text:list-item>
+      <text:p text:style-name="Inside-enumerate" ><text:span text:style-name="textbf" ><text:span 
+text:style-name="ptmb8t-x-x-120">Legal Feasibility:</text:span></text:span> It investigates if the proposed system conflicts with legal requirements like data
+      protection acts or social media laws.
+                                                                                               
+                                                                                               
+      </text:p> 
+</text:list-item> 
+
+      <text:list-item>
+      <text:p text:style-name="Inside-enumerate" ><text:span text:style-name="textbf" ><text:span 
+text:style-name="ptmb8t-x-x-120">Safety Feasibility:</text:span></text:span> It refers to an analysis of whether a project is capable of being implemented and
+      operated safely with minimum adverse effects on the environment.
+      </text:p> 
+</text:list-item> 
+
+      <text:list-item>
+      <text:p text:style-name="Inside-enumerate" ><text:span text:style-name="textbf" ><text:span 
+text:style-name="ptmb8t-x-x-120">Behavioral Feasibility:</text:span></text:span> Behavioral feasibility assesses the extent to which the required software performs
+      a series of steps to solve business problems and user requirements. It is a measure of how well the solution
+      of problems or a specific alternative solution will work in the organization.<text:line-break 
+/><text:line-break 
+/><text:span text:style-name="Emphasis" ><text:span 
+text:style-name="ptmri8t-x-x-120">Functions:</text:span></text:span><text:line-break 
+/>The user has been provided some test functions which he can use to test various.<text:line-break 
+/><text:line-break 
+/><text:span text:style-name="Emphasis" ><text:span 
+text:style-name="ptmri8t-x-x-120">Plots:</text:span></text:span><text:line-break 
+/>Octave provides fltk as the default toolkit. But we can use gnuplot for more accurate plotting by setting
+      them as default toolkit.<text:line-break 
+/><text:line-break 
+/><text:span text:style-name="Emphasis" ><text:span 
+text:style-name="ptmri8t-x-x-120">Input:</text:span></text:span><text:line-break 
+/>Input values are taken from user or default values defined in the file are used.<text:line-break 
+/><text:line-break 
+/><text:span text:style-name="Emphasis" ><text:span 
+text:style-name="ptmri8t-x-x-120">Output:</text:span></text:span><text:line-break 
+/>The iterations are performed and it returns the output with the expected precision.
+      </text:p> 
+</text:list-item> 
+
+      <text:list-item>
+      <text:p text:style-name="Inside-enumerate" ><text:span text:style-name="textbf" ><text:span 
+text:style-name="ptmb8t-x-x-120">Operational Feasibility:</text:span></text:span> Operational feasibility is a measure of how well a project solves the problems,
+      and takes advantage of the opportunities identified during scope definition and how it satisfies the
+      requirements analysis phase of system development.All the operations performed in the software are very
+      quick and satisfy all the requirements.<text:line-break 
+/><text:line-break 
+/><text:span text:style-name="Emphasis" ><text:span 
+text:style-name="ptmri8t-x-x-120">Hardware Requirements:</text:span></text:span>
+           </text:p> 
+<!--l. 64--><text:list text:style-name="Itemize" > 
+
+           <text:list-item>
+           <text:p text:style-name="Inside-itemize" >Operating System: Linux/Windows
+           </text:p> 
+</text:list-item> 
+
+           <text:list-item>
+           <text:p text:style-name="Inside-itemize" >Processor Speed: 512KHz or more
+           </text:p> 
+</text:list-item> 
+
+                                                                                               
+                                                                                               
+           <text:list-item>
+           <text:p text:style-name="Inside-itemize" >RAM: Minimum 256MB</text:p> 
+</text:list-item> 
+</text:list > 
+
+      <text:p text:style-name="Inside-enumerate" ><text:span text:style-name="Emphasis" ><text:span 
+text:style-name="ptmri8t-x-x-120">Software Requirements:</text:span></text:span>
+           </text:p> 
+<!--l. 70--><text:list text:style-name="Itemize" > 
+
+           <text:list-item>
+           <text:p text:style-name="Inside-itemize" >Software: octave gui
+           </text:p> 
+</text:list-item> 
+
+           <text:list-item>
+           <text:p text:style-name="Inside-itemize" >Programming Language: octave</text:p> 
+</text:list-item> 
+</text:list > 
+
+      </text:list-item> 
+</text:list > 
+
+                                                                                               
+                                                                                               
+   <!--end of section*--><!--end of chapter--><!--start of chapter--><text:p text:style-name="clearpage"></text:p><text:h text:style-name="Heading-1" text:outline-level="1" ><text:span text:style-name="chapter" >Chapter<text:s/>2 </text:span><text:line-break/><t4htlink 
+href="#x1-30002" name="x1-30002"></t4htlink>Practical-2</text:h> 
+
+<t4htlink 
+ href="#Q1-1-5" name="Q1-1-5"></t4htlink>
+<!--start of section*--><text:h text:style-name="Heading-2" text:outline-level="2" ><t4htlink 
+href="#x1-40002" name="x1-40002"></t4htlink><text:span 
+text:style-name="ptmr8t-x-x-160">Aim: Preparation of Software Requirement Specification Document.</text:span></text:h> 
+
+<!--l. 2--><text:p text:style-name="Text-body">An SRS is basically an organization&#x2019;s understanding (in writing) of a customer or potential client&#x2019;s sy stem
+requirements and dependencies at a particular point in time (usually) prior to any actual design or development
+work. It&#x2019;s a two-way insurance policy that assures that both the client and the organization understand the other&#x2019;s
+requirements from that perspective at a given point in time.<text:line-break 
+/>
+</text:p> 
+<!--l. 13--><text:p text:style-name="First-line-indent">   The SRS document itself states in precise and explicit language those functions and capabilities a software sy
+stem (i.e., a software application, an ecommerce Web site, and so on) must provide, as well as states any required
+constraints by which the sy stem must abide.<text:line-break 
+/>
+</text:p> 
+<!--l. 21--><text:p text:style-name="First-line-indent">   The SRS also functions as a blueprint for completing a project with as little cost growth as possible. The SRS
+is often referred to as the &#x0022;parent&#x0022; document because all subsequent project management documents, such as
+design specifications, statements of work, software architecture specifications, testing and validation plans, and
+documentation plans, are related to it.<text:line-break 
+/>
+</text:p> 
+<!--l. 27--><text:p text:style-name="First-line-indent">   It&#x2019;s important to note that an SRS contains functional and nonfunctional requirements only ; it doesn&#x2019;t offer
+design suggestions, possible solutions to technology or business issues, or any other information other than what
+the development team understands the customer&#x2019;s system requirements to be. A well-designed, well-written SRS
+accomplishes four major goals:
+      </text:p> 
+<!--l. 35--><text:list text:style-name="Itemize" > 
+
+      <text:list-item>
+      <text:p text:style-name="Inside-itemize" >It provides feedback to the customer. The SRS should be written in natural language (versus a
+      formal language, explained later in this article), in an unambiguous manner that may also include
+      charts, tables, data flow diagrams, decision tables, and so on.
+      </text:p> 
+</text:list-item> 
+
+      <text:list-item>
+      <text:p text:style-name="Inside-itemize" >It  decomposes  the  problem  into  component  parts.  The  simple  act  of  writing  down  software
+      requirements in a well-designed format organizes information, placesborders around the problem,
+      solidifies ideas, and helps break down the problem into its component parts in an orderly fashion.
+      </text:p> 
+</text:list-item> 
+
+      <text:list-item>
+      <text:p text:style-name="Inside-itemize" >The SRS serves as the parent document to subsequent documents, such as the software design
+      specification  and  statement  of  work.  Therefore,  the  SRS  must  contain  sufficient  detail  in  the
+      functional system requirements so that a design solution can be devised.
+      </text:p> 
+</text:list-item> 
+
+                                                                                               
+                                                                                               
+      <text:list-item>
+      <text:p text:style-name="Inside-itemize" >It serves as a product validation check. The SRS also serves as the parent document for testing and
+      validation strategies that will be applied to the requirements for verification.
+      </text:p> 
+</text:list-item> 
+</text:list > 
+
+<!--l. 55--><text:p text:style-name="Text-body"><text:span text:style-name="textbf" ><text:span 
+text:style-name="ptmb8t-x-x-120">What Kind of Information Should an SRS Include?</text:span></text:span><text:line-break 
+/>
+</text:p> 
+<!--l. 57--><text:p text:style-name="First-line-indent">   You probably will be a member of the SRS team (if not, ask to be), which means SRS development will be a
+collaborative effort for a particular project. In these cases, y our company will have developed SRSs before, so y
+ou should have examples (and, likely , the company &#x2019;s SRS template) to use. But, let&#x2019;s assume y ou&#x2019;ll be starting
+from scratch. Several standards organizations (including the IEEE) have identified nine topics that must be
+addressed when designing and writing an SRS:
+      </text:p> 
+<text:list text:style-name="Enumerate" > 
+
+      <text:list-item>
+      <text:p text:style-name="Inside-enumerate" >Interfaces
+      </text:p> 
+</text:list-item> 
+
+      <text:list-item>
+      <text:p text:style-name="Inside-enumerate" >Functional Capabilities
+      </text:p> 
+</text:list-item> 
+
+      <text:list-item>
+      <text:p text:style-name="Inside-enumerate" >Performance Levels
+      </text:p> 
+</text:list-item> 
+
+      <text:list-item>
+      <text:p text:style-name="Inside-enumerate" >Data Structures /Elements
+      </text:p> 
+</text:list-item> 
+
+      <text:list-item>
+      <text:p text:style-name="Inside-enumerate" >Safety
+      </text:p> 
+</text:list-item> 
+
+      <text:list-item>
+      <text:p text:style-name="Inside-enumerate" >Reliability
+      </text:p> 
+</text:list-item> 
+
+      <text:list-item>
+      <text:p text:style-name="Inside-enumerate" >Security /Privacy
+                                                                                               
+                                                                                               
+      </text:p> 
+</text:list-item> 
+
+      <text:list-item>
+      <text:p text:style-name="Inside-enumerate" >Quality
+      </text:p> 
+</text:list-item> 
+
+      <text:list-item>
+      <text:p text:style-name="Inside-enumerate" >Constraints and Limitations
+      </text:p> 
+</text:list-item> 
+</text:list > 
+
+<!--l. 90--><text:p text:style-name="Text-body"><text:span text:style-name="textbf" ><text:span 
+text:style-name="ptmb8t-x-x-120">Begin with an SRS Template</text:span></text:span><text:line-break 
+/>
+</text:p> 
+<!--l. 92--><text:p text:style-name="First-line-indent">   The first and biggest step to writing an SRS is to select an existing template that y ou can fine tune for y our
+organizational needs (if y ou don&#x2019;t have one already ). <text:line-break 
+/>
+</text:p> 
+<!--l. 99--><text:p text:style-name="First-line-indent">   There&#x2019;s not a &#x0022;standard specification template&#x0022; for all projects in all industries because the individual
+requirements that populate an SRS are unique not only from company to company , but also from project to
+project within any one company.<text:line-break 
+/>
+</text:p> 
+<!--l. 108--><text:p text:style-name="First-line-indent">   The key is to select an existing template or specification to begin with, and then adapt it to meet y our needs.
+In recommending using existing templates, I&#x2019;m not advocating simply copy ing a template from available
+resources and using them as y our own; instead, I&#x2019;m suggesting that y ou use available templates as guides for
+developing y our own. <text:line-break 
+/>
+</text:p> 
+<!--l. 121--><text:p text:style-name="First-line-indent">   It would be almost impossible to find a specification or specification template that meets y our particular
+project requirements exactly . But using other templates as guides is how it&#x2019;s recommended in the literature on
+specification development. Look at what someone else has done, and modify it to fit your project requirements.
+(See the sidebar called &#x0022;Resources for Model Templates&#x0022; at the end of this article for resources that provide
+sample templates and related information.)
+<t4htlink 
+ href="#Q1-1-7" name="Q1-1-7"></t4htlink>
+</text:p> 
+<!--start of subsection*--><text:h text:style-name="Heading-3" text:outline-level="3" ><t4htlink 
+href="#x1-50002" name="x1-50002"></t4htlink>A sample of a more detailed SRS outline</text:h> 
+
+      <text:list text:style-name="Enumerate" > 
+
+      <text:list-item>
+      <text:p text:style-name="Inside-enumerate" >Scope
+           </text:p> 
+<text:list text:style-name="Enumerate" > 
+
+           <text:list-item>
+           <text:p text:style-name="Inside-enumerate" >A Webinterface to Octave, MySQL, make, Doxygen, HTML, CSS, PHP, Shell script, PNG
+           images.
+           </text:p> 
+</text:list-item> 
+
+           <text:list-item>
+                                                                                               
+                                                                                               
+           <text:p text:style-name="Inside-enumerate" >
+               </text:p> 
+<text:list text:style-name="Enumerate" > 
+
+               <text:list-item>
+               <text:p text:style-name="Inside-enumerate" >Giving input to the interface in form of octave commands. <text:line-break 
+/>
+               </text:p> 
+</text:list-item> 
+
+               <text:list-item>
+               <text:p text:style-name="Inside-enumerate" >storing the information in form of png images and commands in the database. <text:line-break 
+/>
+               </text:p> 
+</text:list-item> 
+
+               <text:list-item>
+               <text:p text:style-name="Inside-enumerate" >Processing the database based on the user queries and can send the output.</text:p> 
+</text:list-item> 
+</text:list > 
+
+           </text:list-item> 
+
+           <text:list-item>
+           <text:p text:style-name="Inside-enumerate" >Document overview. A civil engineer can use this project to infer some very useful information in
+           matter of seconds from the already existent octave functions. At the same time the information is
+           being stored in a database that can be made available to a community of engineers for research and
+           reference. This document comprises six sections:
+               </text:p> 
+<!--l. 163--><text:list text:style-name="Itemize" > 
+
+               <text:list-item>
+               <text:p text:style-name="Inside-itemize" >Scope
+               </text:p> 
+</text:list-item> 
+
+               <text:list-item>
+               <text:p text:style-name="Inside-itemize" >Referenced documents
+               </text:p> 
+</text:list-item> 
+
+               <text:list-item>
+               <text:p text:style-name="Inside-itemize" >Requirements
+               </text:p> 
+</text:list-item> 
+
+               <text:list-item>
+               <text:p text:style-name="Inside-itemize" >Testing and Coding</text:p> 
+</text:list-item> 
+</text:list > 
+
+           </text:list-item> 
+</text:list > 
+
+      </text:list-item> 
+
+      <text:list-item>
+      <text:p text:style-name="Inside-enumerate" >Referenced Documents
+           </text:p> 
+<text:list text:style-name="Enumerate" > 
+
+           <text:list-item>
+           <text:p text:style-name="Inside-enumerate" >Web-Octave technical manual.
+                                                                                               
+                                                                                               
+           </text:p> 
+</text:list-item> 
+
+           <text:list-item>
+           <text:p text:style-name="Inside-enumerate" >Material database.</text:p> 
+</text:list-item> 
+</text:list > 
+
+      </text:list-item> 
+
+      <text:list-item>
+      <text:p text:style-name="Inside-enumerate" >Requirements
+           </text:p> 
+<text:list text:style-name="Enumerate" > 
+
+           <text:list-item>
+           <text:p text:style-name="Inside-enumerate" >An interface for easy operation.
+           </text:p> 
+</text:list-item> 
+
+           <text:list-item>
+           <text:p text:style-name="Inside-enumerate" >A web interface for opearting commands and excessing the processed data from any sy stem
+           over the web.
+           </text:p> 
+</text:list-item> 
+
+           <text:list-item>
+           <text:p text:style-name="Inside-enumerate" >Flexibility to incorporate any changes in the standard sy ntax of the Web-Octave scripting
+           methods.
+           </text:p> 
+</text:list-item> 
+</text:list > 
+
+      </text:list-item> 
+</text:list > 
+
+                                                                                               
+                                                                                               
+   <!--end of subsection*--><!--end of section*--><!--end of chapter--><!--start of chapter--><text:p text:style-name="clearpage"></text:p><text:h text:style-name="Heading-1" text:outline-level="1" ><text:span text:style-name="chapter" >Chapter<text:s/>3 </text:span><text:line-break/><t4htlink 
+href="#x1-60003" name="x1-60003"></t4htlink>Practical-3</text:h> 
+
+<t4htlink 
+ href="#Q1-1-10" name="Q1-1-10"></t4htlink>
+<!--start of section*--><text:h text:style-name="Heading-2" text:outline-level="2" ><t4htlink 
+href="#x1-70003" name="x1-70003"></t4htlink><text:span 
+text:style-name="ptmr8t-x-x-160">Aim: Study and usage of OpenProj.</text:span></text:h> 
+
+<!--l. 3--><text:p text:style-name="Text-body"><text:span 
+text:style-name="ptmb8t-x-x-120">OpenProj </text:span>: OpenProj is an open source, free project management software application or solution. OpenProj
+operates on multiple platforms including Windows, Mac, Linux and Unix. OpenProj is ideal for
+desktop project management and supports opening Microsoft or Primavera files. OpenProj 1.4 is an
+open source desktop project management application. This application is an alternative to Microsoft
+Project.
+</text:p> 
+<!--l. 8--><text:p text:style-name="First-line-indent">   OpenProj provides control, tracking and management of projects. To create a new project the
+only field required is the Project Name on the Create New Project window and the start date of the
+project can be change it if you don&#x2019;t want to start the day that you&#x2019;re creating your project. You can
+add tasks in the Gantt diagram providing the start and end dates of each task; also you can add
+information to each task such the predecessors and successors tasks, resources, notes, etc. One great
+feature is that provides the Work Breakdown Structure (WBS) to order and control the tasks of the
+project for people who manages projects this is a very important tool. Another great feature is the
+Resource
+</text:p> 
+<!--l. 18--><text:p text:style-name="First-line-indent">   Breakdown Structure (RBS) to define the structure of the resources, teams, providers, etc. Task Usage and
+Resource Usage are features to control your project and provide a good track on it. The Report tool provides
+information about the current status of your project.
+</text:p> 
+<!--l. 21--><text:p text:style-name="First-line-indent">   The features of OpenProj are as follows:-
+      </text:p> 
+<text:list text:style-name="description" text:name="description" 
+><text:list-item><text:h text:style-name="dt" 
+>
+ </text:h><!--dd 
+class="description"-->
+      <!--l. 23--><text:p text:style-name="dd"><text:span text:style-name="textbf" ><text:span 
+text:style-name="ptmb8t-x-x-120">Gantt  chart</text:span></text:span>:-  A  Gantt  chart  is  a  type  of  bar  chart,  developed  by  Henry  Gantt  in  the  1910s,
+      that illustrates a project schedule. Gantt charts illustrate the start and finish dates of the terminal
+      elements and summary elements of a project. Terminal elements and summary elements comprise
+      the work breakdown structure of the project. Modern Gantt charts also show the dependency (i.e.
+      precedence network) relationships between activities.
+      </text:p> 
+<!--/dd--></text:list-item><text:list-item><text:h text:style-name="dt" 
+>
+ </text:h><!--dd 
+class="description"-->
+      <!--l. 25--><text:p text:style-name="dd"><text:span text:style-name="textbf" ><text:span 
+text:style-name="ptmb8t-x-x-120">PERT   graph</text:span></text:span>:-   The   Program   (or   Project)   Evaluation   and   Review   Technique,   commonly
+      abbreviated PERT, is a statistical tool, used in project management, that is designed to analyze and
+      represent the tasks involved in completing a given project. First developed by the United States
+      Navy in the 1950s, it is commonly used in conjunction with the critical path method (CPM).
+      </text:p> 
+<!--/dd--></text:list-item><text:list-item><text:h text:style-name="dt" 
+>
+ </text:h><!--dd 
+class="description"-->
+      <!--l. 27--><text:p text:style-name="dd"><text:span text:style-name="textbf" ><text:span 
+text:style-name="ptmb8t-x-x-120">Resource Breakdown Structure (RBS) chart</text:span></text:span>:- In project management, the resource breakdown
+      structure (RBS) is a hierarchical list of resources related by function and resource type that is used
+                                                                                               
+                                                                                               
+      to facilitate planning and controlling of project work. In some cases, a geographic division may
+      be preferred. Each descending (lower) level represents an increasingly detailed description of the
+      resource until small enough to be used in conjunction with the work breakdown structure (WBS)
+      to allow the work to be planned, monitored and controlled.
+      </text:p> 
+<!--/dd--></text:list-item><text:list-item><text:h text:style-name="dt" 
+>
+ </text:h><!--dd 
+class="description"-->
+      <!--l. 29--><text:p text:style-name="dd"><text:span text:style-name="textbf" ><text:span 
+text:style-name="ptmb8t-x-x-120">Work  Breakdown  Structure  (WBS)  char</text:span></text:span>t:  -  A  work  breakdown  structure  (WBS),  in  project
+      management and systems engineering, is a deliverable oriented decomposition of a project into
+      smaller components.A work breakdown structure element may be a product, data, service, or any
+      combination thereof.
+      </text:p> 
+<!--/dd--></text:list-item> </text:list>
+<!--l. 34--><text:p text:style-name="First-line-indent">   Steps of installation of OpenProj: </text:p> 
+<text:section text:name="fig" text:style-name="Figure" ><text:p text:style-name="bigskip"></text:p>
+                                                                                               
+                                                                                               
+                                                                                               
+                                                                                               
+<!--l. 37--><text:p text:style-name="Text-body"><draw:frame draw:name="input/images/image30.jpeg" text:anchor-type="as-char" draw:z-index="0" ><draw:image 
+xlink:href="Pictures/input/images/image30.jpeg"  
+xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" /><!--draw:name="IMG"  
+--></draw:frame>
+</text:p> 
+<!--l. 38--><text:p text:style-name="Text-body"></text:p> 
+
+<!--l. 38--><text:p text:style-name="Text-body"> 
+<text:span text:style-name="caption" ><text:span text:style-name="caption-title" ><t4htlink 
+ href="#x1-70011" name="x1-70011">Figure<text:s/>3.1</t4htlink>: </text:span>Download by clicking here</text:span>
+                                                                                               
+                                                                                               
+   </text:p> 
+<text:p text:style-name="bigskip"></text:p></text:section>
+   <text:section text:name="fig" text:style-name="Figure" ><text:p text:style-name="bigskip"></text:p>
+                                                                                               
+                                                                                               
+                                                                                               
+                                                                                               
+<!--l. 44--><text:p text:style-name="Text-body"><draw:frame draw:name="input/images/image32.jpeg" text:anchor-type="as-char" draw:z-index="0" ><draw:image 
+xlink:href="Pictures/input/images/image32.jpeg"  
+xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" /><!--draw:name="IMG"  
+--></draw:frame>
+</text:p> 
+<!--l. 46--><text:p text:style-name="Text-body"></text:p> 
+
+<!--l. 46--><text:p text:style-name="Text-body"> 
+<text:span text:style-name="caption" ><text:span text:style-name="caption-title" ><t4htlink 
+ href="#x1-70022" name="x1-70022">Figure<text:s/>3.2</t4htlink>: </text:span>Click Next</text:span>
+                                                                                               
+                                                                                               
+   </text:p> 
+<text:p text:style-name="bigskip"></text:p></text:section>
+   <text:section text:name="fig" text:style-name="Figure" ><text:p text:style-name="bigskip"></text:p>
+                                                                                               
+                                                                                               
+                                                                                               
+                                                                                               
+<!--l. 51--><text:p text:style-name="Text-body"><draw:frame draw:name="input/images/image33.jpeg" text:anchor-type="as-char" draw:z-index="0" ><draw:image 
+xlink:href="Pictures/input/images/image33.jpeg"  
+xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" /><!--draw:name="IMG"  
+--></draw:frame>
+</text:p> 
+<!--l. 53--><text:p text:style-name="Text-body"></text:p> 
+
+<!--l. 53--><text:p text:style-name="Text-body"> 
+<text:span text:style-name="caption" ><text:span text:style-name="caption-title" ><t4htlink 
+ href="#x1-70033" name="x1-70033">Figure<text:s/>3.3</t4htlink>: </text:span>Click Install</text:span>
+                                                                                               
+                                                                                               
+   </text:p> 
+<text:p text:style-name="bigskip"></text:p></text:section>
+   <text:section text:name="fig" text:style-name="Figure" ><text:p text:style-name="bigskip"></text:p>
+                                                                                               
+                                                                                               
+                                                                                               
+                                                                                               
+<!--l. 58--><text:p text:style-name="Text-body"><draw:frame draw:name="input/images/image34.jpeg" text:anchor-type="as-char" draw:z-index="0" ><draw:image 
+xlink:href="Pictures/input/images/image34.jpeg"  
+xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" /><!--draw:name="IMG"  
+--></draw:frame>
+</text:p> 
+<!--l. 60--><text:p text:style-name="Text-body"></text:p> 
+
+<!--l. 60--><text:p text:style-name="Text-body"> 
+<text:span text:style-name="caption" ><text:span text:style-name="caption-title" ><t4htlink 
+ href="#x1-70044" name="x1-70044">Figure<text:s/>3.4</t4htlink>: </text:span>Click Finish</text:span>
+                                                                                               
+                                                                                               
+   </text:p> 
+<text:p text:style-name="bigskip"></text:p></text:section>
+   <text:section text:name="fig" text:style-name="Figure" ><text:p text:style-name="bigskip"></text:p>
+                                                                                               
+                                                                                               
+                                                                                               
+                                                                                               
+<!--l. 65--><text:p text:style-name="Text-body"><draw:frame draw:name="input/images/image35.jpeg" text:anchor-type="as-char" draw:z-index="0" ><draw:image 
+xlink:href="Pictures/input/images/image35.jpeg"  
+xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" /><!--draw:name="IMG"  
+--></draw:frame>
+</text:p> 
+<!--l. 67--><text:p text:style-name="Text-body"></text:p> 
+
+<!--l. 67--><text:p text:style-name="Text-body"> 
+<text:span text:style-name="caption" ><text:span text:style-name="caption-title" ><t4htlink 
+ href="#x1-70055" name="x1-70055">Figure<text:s/>3.5</t4htlink>: </text:span>Create Project Name: Web-Octave</text:span>
+                                                                                               
+                                                                                               
+   </text:p> 
+<text:p text:style-name="bigskip"></text:p></text:section>
+   <text:section text:name="fig" text:style-name="Figure" ><text:p text:style-name="bigskip"></text:p>
+                                                                                               
+                                                                                               
+                                                                                               
+                                                                                               
+<!--l. 72--><text:p text:style-name="Text-body"><draw:frame draw:name="input/images/image36.jpeg" text:anchor-type="as-char" draw:z-index="0" ><draw:image 
+xlink:href="Pictures/input/images/image36.jpeg"  
+xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" /><!--draw:name="IMG"  
+--></draw:frame>
+</text:p> 
+<!--l. 74--><text:p text:style-name="Text-body"></text:p> 
+
+<!--l. 74--><text:p text:style-name="Text-body"> 
+<text:span text:style-name="caption" ><text:span text:style-name="caption-title" ><t4htlink 
+ href="#x1-70066" name="x1-70066">Figure<text:s/>3.6</t4htlink>: </text:span>Click OK</text:span>
+                                                                                               
+                                                                                               
+   </text:p> 
+<text:p text:style-name="bigskip"></text:p></text:section>
+                                                                                               
+                                                                                               
+   <!--end of section*--><!--end of chapter--><!--start of chapter--><text:p text:style-name="clearpage"></text:p><text:h text:style-name="Heading-1" text:outline-level="1" ><text:span text:style-name="chapter" >Chapter<text:s/>4 </text:span><text:line-break/><t4htlink 
+href="#x1-80004" name="x1-80004"></t4htlink>Practical-4</text:h> 
+
+<t4htlink 
+ href="#Q1-1-19" name="Q1-1-19"></t4htlink>
+<!--start of section*--><text:h text:style-name="Heading-2" text:outline-level="2" ><t4htlink 
+href="#x1-90004" name="x1-90004"></t4htlink><text:span 
+text:style-name="ptmr8t-x-x-160">Aim: Usage of OpenProj or similar software to draft plan and to track the progress of</text:span>
+<text:span 
+text:style-name="ptmr8t-x-x-160">a project.</text:span></text:h> 
+
+<!--l. 3--><text:p text:style-name="Text-body">The OpenProj free project management tool has now been superceded by ProjectLibre. The new program is also
+free for any use and is based on OpenProj. Project managers can use OpenProj, a free task tracking application,
+when creating effective plans<text:line-break 
+/>The best way to understand how a project plan may be created using OpenProj is to study a realistic example
+such as the one below.<text:line-break 
+/><text:line-break 
+/>From the graphical presentation of the critical path, to resource balancing and task elaboration, OpenProj gives
+the project manager a set of functions that help to monitor project performance.<text:line-break 
+/><text:line-break 
+/>To create projects in OpenProj Software:
+      </text:p> 
+<text:list text:style-name="Enumerate" > 
+
+      <text:list-item>
+      <text:p text:style-name="Inside-enumerate" >Having downloaded and installed the OpenProj software; start OpenProj from the start menu of
+      Windows or via the icon on your desktop. After the license agreement, OpenProj starts with a
+      choice of creating a new project or opening an existing one. Choose Create Project.
+      </text:p> 
+</text:list-item> 
+
+      <text:list-item>
+      <text:p text:style-name="Inside-enumerate" >Enter  a  name  for  the  project,  the  project  manager&#x2019;s  name  and  a  start  date  (which  can  also  be
+      modified later if required). Provide a description in the Notes section as you see fit.
+      </text:p> 
+</text:list-item> 
+
+      <text:list-item>
+      <text:p text:style-name="Inside-enumerate" >The application window will be displayed consisting of following main components:-
+           </text:p> 
+<!--l. 17--><text:list text:style-name="Itemize" > 
+
+           <text:list-item>
+           <text:p text:style-name="Inside-itemize" >Indicator  Column:-  In  this  column,  symbols  are  displayed  to  show  the  status  of  the
+           corresponding tasks (see right).
+           </text:p> 
+</text:list-item> 
+
+           <text:list-item>
+           <text:p text:style-name="Inside-itemize" >Task Number Column:- Task numbers are assigned by OpenProj automatically when data is
+           entered. The user does not enter information into this box.
+           </text:p> 
+</text:list-item> 
+
+           <text:list-item>
+                                                                                               
+                                                                                               
+           <text:p text:style-name="Inside-itemize" >Time Scale:- In many views, OpenProj shows a timeline whose scale can be changed via the
+           + and - magnifying glass icon on the menu above.
+           </text:p> 
+</text:list-item> 
+
+           <text:list-item>
+           <text:p text:style-name="Inside-itemize" >Information  View  Type:-  The  area  along  the  left  side  of  the  window  lists  a  number  of
+           buttons representing the available views. Gantt, Network, Resources, WBS (work breakdown
+           structure), RBS (resource breakdown structure), Reports, Task Usage and Resource Usage.</text:p> 
+</text:list-item> 
+</text:list > 
+
+      </text:list-item> 
+</text:list > 
+
+<!--l. 26--><text:p text:style-name="Text-body">The lower view buttons open a split-screen where resource mapping tables and resource utilization as a graphic can
+be displayed. You can toggle views on and off by clicking the same button repeatedly.
+      </text:p> 
+<!--l. 28--><text:list text:style-name="Itemize" > 
+
+      <text:list-item>
+      <text:p text:style-name="Inside-itemize" ><text:span text:style-name="textbf" ><text:span 
+text:style-name="ptmb8t-x-x-120">Gantt Chart </text:span></text:span> A Gantt chart, commonly used in project management, is one of the most popular
+      and useful ways of showing activities (tasks or events) displayed against time. On the left of the
+      chart is a list of the activities and along the top is a suitable time scale. Each activity is represented
+      by a bar; the position and length of the bar reflects the start date, duration and end date of the
+      activity. This allows you to see at a glance: What the various activities are? When each activity
+      begins and ends? </text:p> 
+<text:section text:name="fig" text:style-name="Figure" ><text:p text:style-name="bigskip"></text:p> <draw:frame draw:name="input/images/img1.png" text:anchor-type="as-char" draw:z-index="0" ><draw:image 
+xlink:href="Pictures/input/images/img1.png"  
+xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" /><!--draw:name="IMG"  
+--></draw:frame>
+<text:p text:style-name="Inside-itemize" > 
+<text:span text:style-name="caption" ><text:span text:style-name="caption-title" ><t4htlink 
+ href="#x1-90041" name="x1-90041">Figure<text:s/>4.1</t4htlink>: </text:span>Gantt chart</text:span>
+      </text:p> 
+<text:p text:style-name="bigskip"></text:p></text:section>
+      </text:list-item> 
+
+      <text:list-item>
+      <text:p text:style-name="Inside-itemize" ><text:span text:style-name="textbf" > <text:span 
+text:style-name="ptmb8t-x-x-120">Network Chart</text:span></text:span> A network diagram is essentially a flow chart that includes all of the project
+      elements and how they relate to one another. It shows parallel activities and the links between
+      each activity. Network logic is the collection of activity dependencies that make up a network
+      diagram for a particular project. In other words, certain tasks are dependent on one another to
+      complete the project. This creates a logical stream of events that will lead to completion of the
+      project.
+      </text:p> 
+<text:section text:name="fig" text:style-name="Figure" ><text:p text:style-name="bigskip"></text:p> <draw:frame draw:name="input/images/img2.png" text:anchor-type="as-char" draw:z-index="0" ><draw:image 
+xlink:href="Pictures/input/images/img2.png"  
+xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" /><!--draw:name="IMG"  
+--></draw:frame>
+<text:p text:style-name="Inside-itemize" > 
+<text:span text:style-name="caption" ><text:span text:style-name="caption-title" ><t4htlink 
+ href="#x1-90052" name="x1-90052">Figure<text:s/>4.2</t4htlink>: </text:span>Network chart</text:span>
+      </text:p> 
+<text:p text:style-name="bigskip"></text:p></text:section>
+      </text:list-item> 
+
+      <text:list-item>
+      <text:p text:style-name="Inside-itemize" ><text:span text:style-name="textbf" ><text:span 
+text:style-name="ptmb8t-x-x-120">Work Breakdown Structure(WBS)</text:span></text:span> A work breakdown structure (WBS),in project management and
+      system engineering, is a deliverable-oriented decomposition of a project into smaller components.A work
+      breakdown structure is a key project deliverable that organizes the team&#x2019;s work into manageable sections.
+                                                                                               
+                                                                                               
+      The Project Management Body of Knowledge defines the work breakdown structure as a &#x0022;A hierarchical
+      decomposition of the total scope of work to be carried out by the project team to accomplish the project
+      objectives and create the required deliverables.&#x0022; A work breakdown structure element may be a
+      product,data,service or any combination thereof. A WBS also provides the necessary framework for
+      detailed cost estimating and control along with providing guidance for schedule development and
+      control.
+      </text:p> 
+<text:section text:name="fig" text:style-name="Figure" ><text:p text:style-name="bigskip"></text:p> <draw:frame draw:name="input/images/img3.png" text:anchor-type="as-char" draw:z-index="0" ><draw:image 
+xlink:href="Pictures/input/images/img3.png"  
+xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" /><!--draw:name="IMG"  
+--></draw:frame>
+<text:p text:style-name="Inside-itemize" > 
+<text:span text:style-name="caption" ><text:span text:style-name="caption-title" ><t4htlink 
+ href="#x1-90063" name="x1-90063">Figure<text:s/>4.3</t4htlink>: </text:span>Work Breakdown Structure</text:span>
+      </text:p> 
+<text:p text:style-name="bigskip"></text:p></text:section>
+      <text:section text:name="fig" text:style-name="Figure" ><text:p text:style-name="bigskip"></text:p> <draw:frame draw:name="input/images/reportchart.png" text:anchor-type="as-char" draw:z-index="0" ><draw:image 
+xlink:href="Pictures/input/images/reportchart.png"  
+xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" /><!--draw:name="IMG"  
+--></draw:frame>
+<text:p text:style-name="Inside-itemize" > 
+<text:span text:style-name="caption" ><text:span text:style-name="caption-title" ><t4htlink 
+ href="#x1-90074" name="x1-90074">Figure<text:s/>4.4</t4htlink>: </text:span>Report Chart</text:span>
+      </text:p> 
+<text:p text:style-name="bigskip"></text:p></text:section>
+      </text:list-item> 
+
+      <text:list-item>
+      <text:p text:style-name="Inside-itemize" ><text:span text:style-name="textbf" ><text:span 
+text:style-name="ptmb8t-x-x-120">Resource Breakdown Structure (RBS) chart</text:span></text:span>:- In project management, the resource breakdown
+      structure (RBS) is a hierarchical list of resources related by function and resource type that is used
+      to facilitate planning and controlling of project work. In some cases, a geographic division may be
+      preferred. Each descending (lower) level represents an increasingly detailed description of the
+      resource until small enough to be used in conjunction with the work breakdown structure (WBS)
+      to allow the work to be planned, monitored and controlled. </text:p> 
+<text:section text:name="fig" text:style-name="Figure" ><text:p text:style-name="bigskip"></text:p> <draw:frame draw:name="input/images/RBS.png" text:anchor-type="as-char" draw:z-index="0" ><draw:image 
+xlink:href="Pictures/input/images/RBS.png"  
+xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" /><!--draw:name="IMG"  
+--></draw:frame>
+<text:p text:style-name="Inside-itemize" > 
+<text:span text:style-name="caption" ><text:span text:style-name="caption-title" ><t4htlink 
+ href="#x1-90085" name="x1-90085">Figure<text:s/>4.5</t4htlink>: </text:span>RBS</text:span>
+      </text:p> 
+<text:p text:style-name="bigskip"></text:p></text:section>
+      <text:section text:name="fig" text:style-name="Figure" ><text:p text:style-name="bigskip"></text:p> <draw:frame draw:name="input/images/resources.png" text:anchor-type="as-char" draw:z-index="0" ><draw:image 
+xlink:href="Pictures/input/images/resources.png"  
+xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" /><!--draw:name="IMG"  
+--></draw:frame>
+<text:p text:style-name="Inside-itemize" > 
+<text:span text:style-name="caption" ><text:span text:style-name="caption-title" ><t4htlink 
+ href="#x1-90096" name="x1-90096">Figure<text:s/>4.6</t4htlink>: </text:span>Resources</text:span>
+      </text:p> 
+<text:p text:style-name="bigskip"></text:p></text:section>
+      <text:section text:name="fig" text:style-name="Figure" ><text:p text:style-name="bigskip"></text:p> <draw:frame draw:name="input/images/sefinal.png" text:anchor-type="as-char" draw:z-index="0" ><draw:image 
+xlink:href="Pictures/input/images/sefinal.png"  
+xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" /><!--draw:name="IMG"  
+--></draw:frame>
+<text:p text:style-name="Inside-itemize" > 
+<text:span text:style-name="caption" ><text:span text:style-name="caption-title" ><t4htlink 
+ href="#x1-90107" name="x1-90107">Figure<text:s/>4.7</t4htlink>: </text:span>Task Usage</text:span>
+      </text:p> 
+<text:p text:style-name="bigskip"></text:p></text:section>
+      </text:list-item> 
+
+      <text:list-item>
+      <text:p text:style-name="Inside-itemize" ><text:span text:style-name="textbf" ><text:span 
+text:style-name="ptmb8t-x-x-120">Histogram</text:span></text:span> A Histogram is a chart type that shows data distribution and it can help in estimating
+      the distribution probability of a variable. </text:p> 
+<text:section text:name="fig" text:style-name="Figure" ><text:p text:style-name="bigskip"></text:p> <draw:frame draw:name="input/images/his.png" text:anchor-type="as-char" draw:z-index="0" ><draw:image 
+xlink:href="Pictures/input/images/his.png"  
+xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" /><!--draw:name="IMG"  
+--></draw:frame>
+<text:p text:style-name="Inside-itemize" > 
+<text:span text:style-name="caption" ><text:span text:style-name="caption-title" ><t4htlink 
+ href="#x1-90118" name="x1-90118">Figure<text:s/>4.8</t4htlink>: </text:span>Histogram</text:span>
+      </text:p> 
+<text:p text:style-name="bigskip"></text:p></text:section>
+                                                                                               
+                                                                                               
+      </text:list-item> 
+
+      <text:list-item>
+      <text:p text:style-name="Inside-itemize" ><text:span text:style-name="textbf" ><text:span 
+text:style-name="ptmb8t-x-x-120">Resource Usage</text:span></text:span> On servers there is a limited amount of resources available for use at any one given time,
+      for all users on that server. The main resources that we monitor for high usage would be CPU usage, and
+      disk usage.
+      </text:p> 
+<text:section text:name="fig" text:style-name="Figure" ><text:p text:style-name="bigskip"></text:p> <draw:frame draw:name="input/images/rseu.png" text:anchor-type="as-char" draw:z-index="0" ><draw:image 
+xlink:href="Pictures/input/images/rseu.png"  
+xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" /><!--draw:name="IMG"  
+--></draw:frame>
+<text:p text:style-name="Inside-itemize" > 
+<text:span text:style-name="caption" ><text:span text:style-name="caption-title" ><t4htlink 
+ href="#x1-90129" name="x1-90129">Figure<text:s/>4.9</t4htlink>: </text:span>Resource Usage</text:span>
+      </text:p> 
+<text:p text:style-name="bigskip"></text:p></text:section>
+      </text:list-item> 
+</text:list > 
+
+                                                                                               
+                                                                                               
+   <!--end of section*--><!--end of chapter--><!--start of chapter--><text:p text:style-name="clearpage"></text:p><text:h text:style-name="Heading-1" text:outline-level="1" ><text:span text:style-name="chapter" >Chapter<text:s/>5 </text:span><text:line-break/><t4htlink 
+href="#x1-100005" name="x1-100005"></t4htlink>Practical-5</text:h> 
+
+<t4htlink 
+ href="#Q1-1-31" name="Q1-1-31"></t4htlink>
+<!--start of section*--><text:h text:style-name="Heading-2" text:outline-level="2" ><t4htlink 
+href="#x1-110005" name="x1-110005"></t4htlink><text:span 
+text:style-name="ptmr8t-x-x-160">Aim: Preparation of Software Configuration Management and Risk Management</text:span>
+<text:span 
+text:style-name="ptmr8t-x-x-160">related documents</text:span></text:h> 
+
+<!--l. 3--><text:p text:style-name="Text-body">The purpose of Software Configuration Management is to establish and maintain the integrity of the products of
+the software project throughout the project&#x2019;s software life cycle. Software Configuration Management involves
+identifying configuration items for the software project, controlling these configuration items and
+changes to them, and recording and reporting status and change activity for these configuration
+items.
+</text:p> 
+<!--l. 9--><text:p text:style-name="First-line-indent">   Configuration management (CM) refers to a discipline for evaluating, coordinating, approving or
+disapproving, and implementing changes in artefacts that are used to construct and maintain software systems.
+An artifact may be a piece of hardware or software or documentation. CM enables the management of artifact
+from the initial concept through design, implementation, testing, base lining, building, release, and
+maintenance.
+</text:p> 
+<!--l. 15--><text:p text:style-name="First-line-indent">   CM is intended to eliminate the confusion and error brought about by the existence of different versions of
+artifacts. Artifact change is a fact of life: plan for it or plan to be overwhelmed by it. Changes are made to correct
+errors, provide enhancements, or simply reflect the evolutionary refinement of product definition. CM is
+about keeping the inevitable change under control. Without a well-enforced CM process, different
+team members (possibly at different sites) can use different versions of artifacts unintentionally.
+Successful CM requires a well-defined and institutionalized set of policies and standards that clearly
+define
+      </text:p> 
+<!--l. 20--><text:list text:style-name="Itemize" > 
+
+      <text:list-item>
+      <text:p text:style-name="Inside-itemize" >The set of artifacts (configuration items) under the jurisdiction of CM (Models that will be used)
+      </text:p> 
+</text:list-item> 
+
+      <text:list-item>
+      <text:p text:style-name="Inside-itemize" >How artifacts are named (division of models into admin, student and company
+      </text:p> 
+<text:p text:style-name="Inside-itemize" >module)
+      </text:p> 
+</text:list-item> 
+
+      <text:list-item>
+      <text:p text:style-name="Inside-itemize" >How artifacts enter and leave the controlled set (various logins and logouts)
+      </text:p> 
+</text:list-item> 
+
+      <text:list-item>
+      <text:p text:style-name="Inside-itemize" >How an artifact under CM is allowed to change (admin has the sole authority )
+      </text:p> 
+</text:list-item> 
+
+      <text:list-item>
+                                                                                               
+                                                                                               
+      <text:p text:style-name="Inside-itemize" >How different versions of an artifact under CM are made available and under what conditions each
+      one can be used (whether to register , participate or work as admin)
+      </text:p> 
+</text:list-item> 
+
+      <text:list-item>
+      <text:p text:style-name="Inside-itemize" >How CM tools are used to enable and enforce CM</text:p> 
+</text:list-item> 
+</text:list > 
+
+      <!--l. 36--><text:list text:style-name="Itemize" > 
+
+      <text:list-item>
+      <text:p text:style-name="Inside-itemize" >In single-system CM, each version of the system has a configuration associated with it that defines
+      the versions of the configuration items that went into that system&#x2019;s production. In product line CM,
+      a configuration must be maintained for each version of each product.
+      </text:p> 
+</text:list-item> 
+
+      <text:list-item>
+      <text:p text:style-name="Inside-itemize" >In single-system CM, each product with all of its versions maybe managed separately. In product
+      line  CM,  such  management  is  untenable,  because  the  core  assets  are  used  across  all  products.
+      Hence, the entire product line is usually managed with a single, unified CM process.
+      </text:p> 
+</text:list-item> 
+
+      <text:list-item>
+      <text:p text:style-name="Inside-itemize" >Product line CM must control the configuration of the core asset base and its use by all product
+      developers. It must account for the fact that core assets are usually produced by one team and used
+      in parallel by several others. Single-system CM has no such burden: the component developers and
+      product developers are the same people.
+      </text:p> 
+</text:list-item> 
+
+      <text:list-item>
+      <text:p text:style-name="Inside-itemize" >Only the most capable CM tools can be used in a product line effort. Many tools that are adequate
+      for single-system CM are simply not sufficiently robust to handle the demands of product line CM.
+      (See the &#x0022;Tool Support&#x0022; practice area for a more complete discussion of tools.)</text:p> 
+</text:list-item> 
+</text:list > 
+
+<!--l. 45--><text:p text:style-name="First-line-indent">   The mission of product line CM is allowing the rapid reconstruction of any product version that may have
+been built using various versions of the core assets and development/operating environment plus various versions
+of product-specific artifacts. One product line manager summed up the problem.
+<t4htlink 
+ href="#Q1-1-33" name="Q1-1-33"></t4htlink>
+</text:p> 
+<!--start of subsection*--><text:h text:style-name="Heading-3" text:outline-level="3" ><t4htlink 
+href="#x1-120005" name="x1-120005"></t4htlink>Risk Management Plan:</text:h> 
+
+<t4htlink 
+ href="#Q1-1-35" name="Q1-1-35"></t4htlink>
+<t4htlink 
+href="#x1-130005" name="x1-130005"></t4htlink>Purpose of the Risk management plan
+   A risk is an event or condition that, if it occurs, could have a positive or negative effect on a projects
+                                                                                               
+                                                                                               
+objectives. Risk Management is the process of identifying, assessing, responding to, monitoring, and reporting
+risks. This Risk Management Plan defines how risks associated with the &#x003C;Project Name&#x003E; project will be
+identified, analyzed, and managed. It outlines how risk management activities will be performed, recorded, and
+monitored throughout thelifecycle of the project and provides templates and practices for recording and
+prioritizing risks.
+<!--l. 56--><text:p text:style-name="First-line-indent">   The Risk Management Plan is created by the project manager in the Planning Phase of the CDC Unified
+Process and is monitored and updated throughout the project. The intended audience of this document is the
+project team, project sponsor and management. <t4htlink 
+ href="#Q1-1-37" name="Q1-1-37"></t4htlink>
+<t4htlink 
+href="#x1-140005" name="x1-140005"></t4htlink>Risk management Procedure:
+   The project manager working with the project team and project sponsors will ensure that risks are actively
+identified, analyzed, and managed throughout the life of the project. Risks will be identified as early as possible
+in the project so as to minimize their impact. The steps foraccomplishing this are outlined in the following
+sections. The &#x003C;project manager or other designee&#x003E; will serve as the Risk Manager for this project.
+<t4htlink 
+ href="#Q1-1-39" name="Q1-1-39"></t4htlink>
+<t4htlink 
+href="#x1-150005" name="x1-150005"></t4htlink>Risk Identification
+   Risk identification will involve the project team, appropriate stakeholders, and will include an evaluation of
+environmental factors, organizational culture and the project management plan including the project scope.
+Careful attention will be given to the project deliverables, assumptions, constraints, WBS, cost/effort estimates,
+resource plan, and other key project documents.
+</text:p> 
+<!--l. 65--><text:p text:style-name="First-line-indent">   A Risk Management Log will be generated and updated as needed and will be stored electronically in the
+project library located at &#x003C;file location&#x003E;. In our project Function Organiser also we looked at various aspects of
+risks that could occur. We looked at the environmental factors and our organizational culture pertained to the
+student body of the college Project scope included serving and notifications of various events for which the
+students registered, so that it reduces the manual work and the system of organizing events could come easy.
+Assumptions of student body and companies that would participate and cost of project was also designed.
+<t4htlink 
+ href="#Q1-1-41" name="Q1-1-41"></t4htlink>
+<t4htlink 
+href="#x1-160005" name="x1-160005"></t4htlink>Risk Analysis
+   All risks identified will be assessed to identify the range of possible project outcomes. Qualification will be
+used to determine which risks are the top risks to pursue and respond to and which risks can be
+ignored Qualitative Risk Analysis. The probability and impact of occurrence for each identified
+risk will be assessed by the project manager, with input from the project team using the following
+approach:
+      </text:p> 
+<text:list text:style-name="description" text:name="description" 
+><text:list-item><text:h text:style-name="dt" 
+>
+ </text:h><!--dd 
+class="description"-->
+      <!--l. 73--><text:p text:style-name="dd">Probability
+           </text:p> 
+<!--l. 75--><text:list text:style-name="Itemize" > 
+
+           <text:list-item>
+           <text:p text:style-name="Inside-itemize" ><text:span text:style-name="textbf" ><text:span 
+text:style-name="ptmb8t-x-x-120">High</text:span></text:span> Greater than 70 probability of occurrence
+                                                                                               
+                                                                                               
+           </text:p> 
+</text:list-item> 
+
+           <text:list-item>
+           <text:p text:style-name="Inside-itemize" ><text:span text:style-name="textbf" > <text:span 
+text:style-name="ptmb8t-x-x-120">Medium</text:span></text:span> Between 30 and 70 probability of occurrence
+           </text:p> 
+</text:list-item> 
+
+           <text:list-item>
+           <text:p text:style-name="Inside-itemize" ><text:span text:style-name="textbf" ><text:span 
+text:style-name="ptmb8t-x-x-120">Low</text:span></text:span> Below 30 probability of occurrence</text:p> 
+</text:list-item> 
+</text:list > 
+
+      <!--/dd--></text:list-item><text:list-item><text:h text:style-name="dt" 
+>
+ </text:h><!--dd 
+class="description"-->
+      <!--l. 80--><text:p text:style-name="dd">Impact
+           </text:p> 
+<!--l. 84--><text:list text:style-name="Itemize" > 
+
+           <text:list-item>
+           <text:p text:style-name="Inside-itemize" ><text:span text:style-name="textbf" ><text:span 
+text:style-name="ptmb8t-x-x-120">High</text:span></text:span>  Risk  that  has  the  potential  to  greatly  impact  project  cost,  project  schedule  or
+           performance (Security for Functions defination)
+           </text:p> 
+</text:list-item> 
+
+           <text:list-item>
+           <text:p text:style-name="Inside-itemize" ><text:span text:style-name="textbf" >  <text:span 
+text:style-name="ptmb8t-x-x-120">Medium  </text:span></text:span>  Risk  that  has  the  potential  to  slightly  impact  project  cost,  project  schedule  or
+           performance (Students not aware of the functionality of the project Function Organiser.)
+           </text:p> 
+</text:list-item> 
+
+           <text:list-item>
+           <text:p text:style-name="Inside-itemize" ><text:span text:style-name="textbf" ><text:span 
+text:style-name="ptmb8t-x-x-120">Low</text:span></text:span> Risk that has relatively little impact on cost, schedule or Performance (connection or
+           connectivity issues as in terms of the project)
+           </text:p> 
+</text:list-item> 
+</text:list > 
+
+      <!--/dd--></text:list-item> </text:list>
+<!--l. 91--><text:p text:style-name="Text-body">Risks that fall within the RED and YELLOW zones will have risk response planning which may include both a risk
+mitigation and a risk contingency plan. <t4htlink 
+ href="#Q1-1-43" name="Q1-1-43"></t4htlink>
+<t4htlink 
+href="#x1-170005" name="x1-170005"></t4htlink>Quantitative Risk Analysis
+   Analysis of risk events that have been prioritized using the qualitative risk analysis process and their effect on
+project activities will be estimated, a numerical rating applied to each risk based on this analysis, and then
+documented in this section of the risk management plan.
+                                                                                               
+                                                                                               
+   </text:p> 
+<!--end of subsection*--><!--end of section*--><!--end of chapter--><!--start of chapter--><text:p text:style-name="clearpage"></text:p><text:h text:style-name="Heading-1" text:outline-level="1" ><text:span text:style-name="chapter" >Chapter<text:s/>6 </text:span><text:line-break/><t4htlink 
+href="#x1-180006" name="x1-180006"></t4htlink>Practical-6</text:h> 
+
+<t4htlink 
+ href="#Q1-1-46" name="Q1-1-46"></t4htlink>
+<!--start of section*--><text:h text:style-name="Heading-2" text:outline-level="2" ><t4htlink 
+href="#x1-190006" name="x1-190006"></t4htlink><text:span 
+text:style-name="ptmr8t-x-x-160">Aim: Getting familiar with function oriented design tools for making dataflow</text:span>
+<text:span 
+text:style-name="ptmr8t-x-x-160">diagrams.</text:span></text:h> 
+
+<t4htlink 
+ href="#Q1-1-48" name="Q1-1-48"></t4htlink>
+<!--start of section*--><text:h text:style-name="Heading-2" text:outline-level="2" ><t4htlink 
+href="#x1-200006" name="x1-200006"></t4htlink>DFD</text:h> 
+
+<!--l. 4--><text:p text:style-name="Text-body">A data flow diagram (DFD) is a graphical representation of the &#x0022;flow&#x0022; of data through an information system,
+modelling its process aspects. A DFD is often used as a preliminary step to create an overview of the system,
+which can later be elaborated. DFDs can also be used for the visualization of data processing (structured
+design).<text:line-break 
+/>A DFD shows what kind of information will be input to and output from the system, where the
+data will come from and go to, and where the data will be stored. It does not show information
+about the timing of process or information about whether processes will operate in sequence or in
+parallel.<text:line-break 
+/><text:line-break 
+/>Data flow diagrams are also known as bubble charts. DFD is a designing tool used in the top-down approach to
+Systems Design. This context-level DFD is next &#x0022;exploded&#x0022;, to produce a Level 1 DFD that shows some of the
+detail of the system being modeled. The Level 1 DFD shows how the system is divided into sub-systems
+(processes), each of which deals with one or more of the data flows to or from an external agent, and which
+together provide all of the functionality of the system as a whole. It also identifies internal data stores that must
+be present in order for the system to do its job, and shows the flow of data between the various parts of the
+system.<text:line-break 
+/><text:line-break 
+/>Data flow diagrams are one of the three essential perspectives of the structured-systems analysis and
+design method SSADM. The sponsor of a project and the end users will need to be briefed and
+consulted throughout all stages of a system&#x2019;s evolution. With a data flow diagram, users are able
+to visualize how the system will operate, what the system will accomplish, and how the system
+will be implemented. The old system&#x2019;s dataflow diagrams can be drawn up and compared with
+the new system&#x2019;s data flow diagrams to draw comparisons to implement a more efficient sy stem.
+<text:line-break 
+/><text:line-break 
+/>Data flow diagrams can be used to provide the end user with a physical idea of where the data they input
+ultimately has an effect upon the structure of the whole system from order to dispatch to report. How any system
+is developed can be determined through a data flow diagram model.<text:line-break 
+/>In the course of developing a set of levelled data flow diagrams the analyst/designer is forced to address how the
+system may be decomposed into component sub-systems, and to identify the transaction data in the data model.
+</text:p> 
+<text:section text:name="fig" text:style-name="Figure" ><text:p text:style-name="bigskip"></text:p>
+                                                                                               
+                                                                                               
+                                                                                               
+                                                                                               
+<!--l. 15--><text:p text:style-name="Text-body"><draw:frame draw:name="input/images/final0.png" text:anchor-type="as-char" draw:z-index="0" ><draw:image 
+xlink:href="Pictures/input/images/final0.png"  
+xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" /><!--draw:name="IMG"  
+--></draw:frame>
+</text:p> 
+<!--l. 16--><text:p text:style-name="Text-body"></text:p> 
+
+<!--l. 16--><text:p text:style-name="Text-body"> 
+<text:span text:style-name="caption" ><text:span text:style-name="caption-title" ><t4htlink 
+ href="#x1-200011" name="x1-200011">Figure<text:s/>6.1</t4htlink>: </text:span>Level 0</text:span>
+                                                                                               
+                                                                                               
+   </text:p> 
+<text:p text:style-name="bigskip"></text:p></text:section>
+   <text:section text:name="fig" text:style-name="Figure" ><text:p text:style-name="bigskip"></text:p>
+                                                                                               
+                                                                                               
+                                                                                               
+                                                                                               
+<!--l. 22--><text:p text:style-name="Text-body"><draw:frame draw:name="input/images/final1.png" text:anchor-type="as-char" draw:z-index="0" ><draw:image 
+xlink:href="Pictures/input/images/final1.png"  
+xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" /><!--draw:name="IMG"  
+--></draw:frame>
+</text:p> 
+<!--l. 23--><text:p text:style-name="Text-body"></text:p> 
+
+<!--l. 23--><text:p text:style-name="Text-body"> 
+<text:span text:style-name="caption" ><text:span text:style-name="caption-title" ><t4htlink 
+ href="#x1-200022" name="x1-200022">Figure<text:s/>6.2</t4htlink>: </text:span>Level 1</text:span>
+                                                                                               
+                                                                                               
+   </text:p> 
+<text:p text:style-name="bigskip"></text:p></text:section>
+   <text:section text:name="fig" text:style-name="Figure" ><text:p text:style-name="bigskip"></text:p>
+                                                                                               
+                                                                                               
+                                                                                               
+                                                                                               
+<!--l. 29--><text:p text:style-name="Text-body"><draw:frame draw:name="input/images/dfdf.png" text:anchor-type="as-char" draw:z-index="0" ><draw:image 
+xlink:href="Pictures/input/images/dfdf.png"  
+xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" /><!--draw:name="IMG"  
+--></draw:frame>
+</text:p> 
+<!--l. 30--><text:p text:style-name="Text-body"></text:p> 
+
+<!--l. 30--><text:p text:style-name="Text-body"> 
+<text:span text:style-name="caption" ><text:span text:style-name="caption-title" ><t4htlink 
+ href="#x1-200033" name="x1-200033">Figure<text:s/>6.3</t4htlink>: </text:span>Level 2</text:span>
+                                                                                               
+                                                                                               
+   </text:p> 
+<text:p text:style-name="bigskip"></text:p></text:section>
+<t4htlink 
+ href="#Q1-1-53" name="Q1-1-53"></t4htlink>
+<!--start of section*--><text:h text:style-name="Heading-2" text:outline-level="2" ><t4htlink 
+href="#x1-210006" name="x1-210006"></t4htlink>Data Dictionary</text:h> 
+
+<!--l. 35--><text:p text:style-name="Text-body">input_data: input, calculate, input_data<text:line-break 
+/>Calculate: Octave Commands<text:line-break 
+/>image: upload image, crop image<text:line-break 
+/>output: png Graphs<text:line-break 
+/>png: Portable Network Graphic format<text:line-break 
+/>Result : Saved as Graphs for user and in Database<text:line-break 
+/>
+                                                                                               
+                                                                                               
+   </text:p> 
+<!--end of section*--><!--end of section*--><!--end of section*--><!--end of chapter--><!--start of chapter--><text:p text:style-name="clearpage"></text:p><text:h text:style-name="Heading-1" text:outline-level="1" ><text:span text:style-name="chapter" >Chapter<text:s/>7 </text:span><text:line-break/><t4htlink 
+href="#x1-220007" name="x1-220007"></t4htlink>Practical-7</text:h> 
+
+<t4htlink 
+ href="#Q1-1-56" name="Q1-1-56"></t4htlink>
+<!--start of section*--><text:h text:style-name="Heading-2" text:outline-level="2" ><t4htlink 
+href="#x1-230007" name="x1-230007"></t4htlink><text:span 
+text:style-name="ptmr8t-x-x-160">Aim: Generate the test cases using boundary value analysis for some problems.</text:span></text:h> 
+
+<t4htlink 
+ href="#Q1-1-58" name="Q1-1-58"></t4htlink>
+<!--start of subsection*--><text:h text:style-name="Heading-3" text:outline-level="3" ><t4htlink 
+href="#x1-240007" name="x1-240007"></t4htlink>Analysis</text:h> 
+
+<!--l. 3--><text:p text:style-name="Text-body">In computer programming, testing is a software method by which individual units of source code, sets of one or
+more computer program modules together with associated control data, usage procedures, and operating
+procedures are tested to determine if they are fit for use. Intuitively, one can view a unit as the smallest testable
+part of an application. In procedural programming, a unit could be an entire module, but it is more
+commonly an individual function or procedure. In object-oriented programming, a unit is often
+an entire interface, such as a class, but could be an individual method. Unit tests are short code
+fragments created by programmers or occasionally by white box testers during the development
+process. Ideally, each test case is independent from the others. Substitutes such as method stubs, mock
+objects, fakes, and test harnesses can be used to assist testing a module in isolation. Unit tests are
+typically written and run by software developers to ensure that code meets its design and behaves as
+intended.
+<t4htlink 
+ href="#Q1-1-60" name="Q1-1-60"></t4htlink>
+</text:p> 
+<!--start of subsection*--><text:h text:style-name="Heading-3" text:outline-level="3" ><t4htlink 
+href="#x1-250007" name="x1-250007"></t4htlink>Testing</text:h> 
+
+<!--l. 6--><text:p text:style-name="Text-body">Testing a program consists of providing the program with a set of test inputs (or test cases) and observing if the
+program behaves as expected. If the program fails to behave as expected, then the conditions under which failure
+occurs are noted for later debugging and correction. <text:line-break 
+/>This software had been taken through rigorous test to fully found potential causes of error and system failure and
+full focus have been given to cover all possible exceptions that can occur and cause failure of the
+software.<text:line-break 
+/>As this software is based on intensive background process it have been taken care that if correct input and email
+address are given then processing of user job can even continue or a least automatically restart even after server
+shuts down or even crash. </text:p> 
+<text:section text:name="table" >
+                                                                                               
+                                                                                               
+                                                                                               
+                                                                                               
+<!--l. 17--><text:p text:style-name="Text-body"></text:p> 
+ <table:table  
+table:style-name="tabular" ><!--table:table-column-group ???="TBL-1-1g"--><table:table-column 
+table:style-name="TBL-1-1" 
+/><!--/table:table-column-group--><!--table:table-column-group ???="TBL-1-2g"--><table:table-column 
+table:style-name="TBL-1-2" 
+/><!--/table:table-column-group--><table:table-row  
+table:style-name="hline-row"><table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+<table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+</table:table-row> 
+<table:table-row  
+ table:style-name="TBL-1-1-"><table:table-cell  
+table:number-columns-spanned="2" 
+ table:style-name="TBL-1-1-1"><text:p  
+text:style-name="sty-LLR11C" >                <text:span text:style-name="multicolumn-LLRR11C-sty-LLR11C"></text:span>Overview of Octave versions
+</text:p></table:table-cell></table:table-row><table:table-row  
+table:style-name="hline-row"><table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+<table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+</table:table-row> 
+<table:table-row  
+ table:style-name="TBL-1-2-"><table:table-cell  
+ table:style-name="TBL-1-2-1"><text:p  
+text:style-name="sty-LLR11C" >         Date         </text:p></table:table-cell><table:table-cell  
+ table:style-name="TBL-1-2-2"><text:p  
+text:style-name="sty-RR11C" >    Publication Title    </text:p></table:table-cell>
+</table:table-row><table:table-row  
+table:style-name="hline-row"><table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+<table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+</table:table-row> 
+<table:table-row  
+table:style-name="hline-row"><table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+<table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+</table:table-row> 
+<tr 
+class="vspace" style="font-size:2.7pt"><td 
+>&nbsp;</td><td 
+>&nbsp;</td></tr><table:table-row  
+ table:style-name="TBL-1-3-"><table:table-cell  
+ table:style-name="TBL-1-3-1"><text:p  
+text:style-name="sty-LLR11C" >September 1999</text:p></table:table-cell><table:table-cell  
+ table:style-name="TBL-1-3-2"><text:p  
+text:style-name="sty-RR11C" >Octave framework 1.0</text:p></table:table-cell>
+</table:table-row><table:table-row  
+table:style-name="hline-row"><table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+<table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+</table:table-row> 
+<table:table-row  
+ table:style-name="TBL-1-4-"><table:table-cell  
+ table:style-name="TBL-1-4-1"><text:p  
+text:style-name="sty-LLR11C" >September 2001</text:p></table:table-cell><table:table-cell  
+ table:style-name="TBL-1-4-2"><text:p  
+text:style-name="sty-RR11C" >Octave framework 2.0</text:p></table:table-cell>
+</table:table-row><table:table-row  
+table:style-name="hline-row"><table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+<table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+</table:table-row> 
+<table:table-row  
+ table:style-name="TBL-1-5-"><table:table-cell  
+ table:style-name="TBL-1-5-1"><text:p  
+text:style-name="sty-LLR11C" >December 2001</text:p></table:table-cell><table:table-cell  
+ table:style-name="TBL-1-5-2"><text:p  
+text:style-name="sty-RR11C" >   Octave criteria 2.0   </text:p></table:table-cell>
+</table:table-row><table:table-row  
+table:style-name="hline-row"><table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+<table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+</table:table-row> 
+<table:table-row  
+ table:style-name="TBL-1-6-"><table:table-cell  
+ table:style-name="TBL-1-6-1"><text:p  
+text:style-name="sty-LLR11C" >September 2003</text:p></table:table-cell><table:table-cell  
+ table:style-name="TBL-1-6-2"><text:p  
+text:style-name="sty-RR11C" >      Octave-S v0.9      </text:p></table:table-cell>
+</table:table-row><table:table-row  
+table:style-name="hline-row"><table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+<table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+</table:table-row> 
+<table:table-row  
+ table:style-name="TBL-1-7-"><table:table-cell  
+ table:style-name="TBL-1-7-1"><text:p  
+text:style-name="sty-LLR11C" >   March 2005   </text:p></table:table-cell><table:table-cell  
+ table:style-name="TBL-1-7-2"><text:p  
+text:style-name="sty-RR11C" >      Octave-S v1.0      </text:p></table:table-cell>
+</table:table-row><table:table-row  
+table:style-name="hline-row"><table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+<table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+</table:table-row> 
+<table:table-row  
+ table:style-name="TBL-1-8-"><table:table-cell  
+ table:style-name="TBL-1-8-1"><text:p  
+text:style-name="sty-LLR11C" >     June 2007     </text:p></table:table-cell><table:table-cell  
+ table:style-name="TBL-1-8-2"><text:p  
+text:style-name="sty-RR11C" >         Octave 3.x         </text:p></table:table-cell>
+</table:table-row><table:table-row  
+table:style-name="hline-row"><table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+<table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+</table:table-row> 
+<table:table-row  
+ table:style-name="TBL-1-9-"><table:table-cell  
+ table:style-name="TBL-1-9-1"><text:p  
+text:style-name="sty-LLR11C" >   March 2016   </text:p></table:table-cell><table:table-cell  
+ table:style-name="TBL-1-9-2"><text:p  
+text:style-name="sty-RR11C" >        Octave 4.0.1        </text:p></table:table-cell>
+</table:table-row><table:table-row  
+table:style-name="hline-row"><table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+<table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+</table:table-row> 
+<table:table-row  
+ table:style-name="TBL-1-10-"><table:table-cell  
+ table:style-name="TBL-1-10-1"><text:p  
+text:style-name="sty-LLR11C" >     July 2016     </text:p></table:table-cell><table:table-cell  
+ table:style-name="TBL-1-10-2"><text:p  
+text:style-name="sty-RR11C" >        Octave 4.0.3        </text:p></table:table-cell>
+</table:table-row><table:table-row  
+table:style-name="hline-row"><table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+<table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+</table:table-row> 
+<tr 
+class="vspace" style="font-size:5.4pt"><td 
+>&nbsp;</td><td 
+>&nbsp;</td></tr><table:table-row  
+ table:style-name="TBL-1-11-"><table:table-cell  
+ table:style-name="TBL-1-11-1"><text:p  
+text:style-name="sty-LLR11C" >                          </text:p></table:table-cell></table:table-row></table:table>
+<!--l. 33--><text:p text:style-name="Text-body"> 
+<text:span text:style-name="caption" ><text:span text:style-name="caption-title" ><t4htlink 
+ href="#x1-250011" name="x1-250011">Table<text:s/>7.1</t4htlink>: </text:span>Octave Release</text:span>
+                                                                                               
+                                                                                               
+   </text:p> 
+</text:section>
+   <text:section text:name="table" >
+                                                                                               
+                                                                                               
+                                                                                               
+                                                                                               
+<!--l. 39--><text:p text:style-name="Text-body"></text:p> 
+ <table:table  
+table:style-name="tabular" ><!--table:table-column-group ???="TBL-2-1g"--><table:table-column 
+table:style-name="TBL-2-1" 
+/><!--/table:table-column-group--><!--table:table-column-group ???="TBL-2-2g"--><table:table-column 
+table:style-name="TBL-2-2" 
+/><!--/table:table-column-group--><!--table:table-column-group ???="TBL-2-3g"--><table:table-column 
+table:style-name="TBL-2-3" 
+/><!--/table:table-column-group--><!--table:table-column-group ???="TBL-2-4g"--><table:table-column 
+table:style-name="TBL-2-4" 
+/><!--/table:table-column-group--><table:table-row  
+table:style-name="hline-row"><table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+<table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+<table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+<table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+</table:table-row> 
+<table:table-row  
+ table:style-name="TBL-2-1-"><table:table-cell  
+table:number-columns-spanned="3" 
+ table:style-name="TBL-2-1-1"><text:p  
+text:style-name="sty-LR11C" ></text:p></table:table-cell>                                                                            <text:span text:style-name="multicolumn-LR11C-sty-LR11C"></text:span>Test cases for main page(index.html)
+</table:table-row><table:table-row  
+table:style-name="hline-row"><table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+<table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+<table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+<table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+</table:table-row> 
+<tr 
+class="vspace" style="font-size:2.7pt"><td 
+>&nbsp;</td><td 
+>&nbsp;</td><td 
+>&nbsp;</td><td 
+>&nbsp;</td></tr><table:table-row  
+ table:style-name="TBL-2-2-"><table:table-cell  
+ table:style-name="TBL-2-2-1"><text:p  
+text:style-name="sty-LR11C" >              Input              </text:p></table:table-cell><table:table-cell  
+ table:style-name="TBL-2-2-2"><text:p  
+text:style-name="sty-R11C" >                  Desired Output                  </text:p></table:table-cell><table:table-cell  
+ table:style-name="TBL-2-2-3"><text:p  
+text:style-name="sty-R11C" >                   Actual Output                   </text:p></table:table-cell><table:table-cell  
+ table:style-name="TBL-2-2-4"><text:p  
+text:style-name="sty-R11C" >Status</text:p></table:table-cell>
+</table:table-row><table:table-row  
+table:style-name="hline-row"><table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+<table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+<table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+<table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+</table:table-row> 
+<table:table-row  
+table:style-name="hline-row"><table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+<table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+<table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+<table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+</table:table-row> 
+<tr 
+class="vspace" style="font-size:2.7pt"><td 
+>&nbsp;</td><td 
+>&nbsp;</td><td 
+>&nbsp;</td><td 
+>&nbsp;</td></tr><table:table-row  
+ table:style-name="TBL-2-3-"><table:table-cell  
+ table:style-name="TBL-2-3-1"><text:p  
+text:style-name="sty-LR11C" > Inputs range exceeds </text:p></table:table-cell><table:table-cell  
+ table:style-name="TBL-2-3-2"><text:p  
+text:style-name="sty-R11C" >          Alert user,Don&#x2019;t proceed          </text:p></table:table-cell><table:table-cell  
+ table:style-name="TBL-2-3-3"><text:p  
+text:style-name="sty-R11C" >          Alert user,Don&#x2019;t proceed.          </text:p></table:table-cell><table:table-cell  
+ table:style-name="TBL-2-3-4"><text:p  
+text:style-name="sty-R11C" > Pass </text:p></table:table-cell>
+</table:table-row><table:table-row  
+table:style-name="hline-row"><table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+<table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+<table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+<table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+</table:table-row> 
+<table:table-row  
+ table:style-name="TBL-2-4-"><table:table-cell  
+ table:style-name="TBL-2-4-1"><text:p  
+text:style-name="sty-LR11C" >Incomplete Command</text:p></table:table-cell><table:table-cell  
+ table:style-name="TBL-2-4-2"><text:p  
+text:style-name="sty-R11C" >Alert user about range. Don&#x2019;t proceed</text:p></table:table-cell><table:table-cell  
+ table:style-name="TBL-2-4-3"><text:p  
+text:style-name="sty-R11C" >Alert user about range. Don&#x2019;t proceed</text:p></table:table-cell><table:table-cell  
+ table:style-name="TBL-2-4-4"><text:p  
+text:style-name="sty-R11C" > Pass </text:p></table:table-cell>
+</table:table-row><table:table-row  
+table:style-name="hline-row"><table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+<table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+<table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+<table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+</table:table-row> 
+<table:table-row  
+ table:style-name="TBL-2-5-"><table:table-cell  
+ table:style-name="TBL-2-5-1"><text:p  
+text:style-name="sty-LR11C" >   PNG selected: No   </text:p></table:table-cell><table:table-cell  
+ table:style-name="TBL-2-5-2"><text:p  
+text:style-name="sty-R11C" >                          Error                          </text:p></table:table-cell><table:table-cell  
+ table:style-name="TBL-2-5-3"><text:p  
+text:style-name="sty-R11C" >                   Don&#x2019;t proceed                   </text:p></table:table-cell><table:table-cell  
+ table:style-name="TBL-2-5-4"><text:p  
+text:style-name="sty-R11C" > Pass </text:p></table:table-cell>
+</table:table-row><table:table-row  
+table:style-name="hline-row"><table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+<table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+<table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+<table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+</table:table-row> 
+<table:table-row  
+ table:style-name="TBL-2-6-"><table:table-cell  
+ table:style-name="TBL-2-6-1"><text:p  
+text:style-name="sty-LR11C" >        Session: Yes        </text:p></table:table-cell><table:table-cell  
+ table:style-name="TBL-2-6-2"><text:p  
+text:style-name="sty-R11C" >      Show email field after Submit      </text:p></table:table-cell><table:table-cell  
+ table:style-name="TBL-2-6-3"><text:p  
+text:style-name="sty-R11C" >      Show email field after Submit      </text:p></table:table-cell><table:table-cell  
+ table:style-name="TBL-2-6-4"><text:p  
+text:style-name="sty-R11C" > Pass </text:p></table:table-cell>
+</table:table-row><table:table-row  
+table:style-name="hline-row"><table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+<table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+<table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+<table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+</table:table-row> 
+<table:table-row  
+ table:style-name="TBL-2-7-"><table:table-cell  
+ table:style-name="TBL-2-7-1"><text:p  
+text:style-name="sty-LR11C" >       Help pressed       </text:p></table:table-cell><table:table-cell  
+ table:style-name="TBL-2-7-2"><text:p  
+text:style-name="sty-R11C" >           Show Detailed user help           </text:p></table:table-cell><table:table-cell  
+ table:style-name="TBL-2-7-3"><text:p  
+text:style-name="sty-R11C" >           Show Detailed user help           </text:p></table:table-cell><table:table-cell  
+ table:style-name="TBL-2-7-4"><text:p  
+text:style-name="sty-R11C" > Pass </text:p></table:table-cell>
+</table:table-row><table:table-row  
+table:style-name="hline-row"><table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+<table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+<table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+<table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+</table:table-row> 
+<table:table-row  
+ table:style-name="TBL-2-8-"><table:table-cell  
+ table:style-name="TBL-2-8-1"><text:p  
+text:style-name="sty-LR11C" >                                    </text:p></table:table-cell></table:table-row></table:table><!--l. 52--><text:p text:style-name="Text-body"> 
+<text:span text:style-name="caption" ><text:span text:style-name="caption-title" ><t4htlink 
+ href="#x1-250022" name="x1-250022">Table<text:s/>7.2</t4htlink>: </text:span>Computational Analysis</text:span>
+                                                                                               
+                                                                                               
+   </text:p> 
+</text:section>
+   <text:section text:name="table" >
+                                                                                               
+                                                                                               
+                                                                                               
+                                                                                               
+<!--l. 57--><text:p text:style-name="Text-body"> </text:p> 
+ <table:table  
+table:style-name="tabular" ><!--table:table-column-group ???="TBL-3-1g"--><table:table-column 
+table:style-name="TBL-3-1" 
+/><!--/table:table-column-group--><!--table:table-column-group ???="TBL-3-2g"--><table:table-column 
+table:style-name="TBL-3-2" 
+/><!--/table:table-column-group--><!--table:table-column-group ???="TBL-3-3g"--><table:table-column 
+table:style-name="TBL-3-3" 
+/><!--/table:table-column-group--><!--table:table-column-group ???="TBL-3-4g"--><table:table-column 
+table:style-name="TBL-3-4" 
+/><!--/table:table-column-group--><table:table-row  
+table:style-name="hline-row"><table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+<table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+<table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+<table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+</table:table-row> 
+<table:table-row  
+ table:style-name="TBL-3-1-"><table:table-cell  
+table:number-columns-spanned="3" 
+ table:style-name="TBL-3-1-1"><text:p  
+text:style-name="sty-LR11C" ></text:p></table:table-cell>                                                                       <text:span text:style-name="multicolumn-LR11C-sty-LR11C"></text:span>Test cases for possible source of problems
+ </table:table-row><table:table-row  
+table:style-name="hline-row"><table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+<table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+<table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+<table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+</table:table-row> 
+<tr 
+class="vspace" style="font-size:2.7pt"><td 
+>&nbsp;</td><td 
+>&nbsp;</td><td 
+>&nbsp;</td><td 
+>&nbsp;</td></tr><table:table-row  
+ table:style-name="TBL-3-2-"><table:table-cell  
+ table:style-name="TBL-3-2-1"><text:p  
+text:style-name="sty-LR11C" >               Input               </text:p></table:table-cell><table:table-cell  
+ table:style-name="TBL-3-2-2"><text:p  
+text:style-name="sty-R11C" >                 Desired Output                 </text:p></table:table-cell><table:table-cell  
+ table:style-name="TBL-3-2-3"><text:p  
+text:style-name="sty-R11C" >                  Actual Output                  </text:p></table:table-cell><table:table-cell  
+ table:style-name="TBL-3-2-4"><text:p  
+text:style-name="sty-R11C" >Status</text:p></table:table-cell>
+ </table:table-row><table:table-row  
+table:style-name="hline-row"><table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+<table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+<table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+<table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+</table:table-row> 
+<table:table-row  
+table:style-name="hline-row"><table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+<table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+<table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+<table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+</table:table-row> 
+<tr 
+class="vspace" style="font-size:2.7pt"><td 
+>&nbsp;</td><td 
+>&nbsp;</td><td 
+>&nbsp;</td><td 
+>&nbsp;</td></tr><table:table-row  
+ table:style-name="TBL-3-3-"><table:table-cell  
+ table:style-name="TBL-3-3-1"><text:p  
+text:style-name="sty-LR11C" >       URL refreshed       </text:p></table:table-cell><table:table-cell  
+ table:style-name="TBL-3-3-2"><text:p  
+text:style-name="sty-R11C" >              Send to homepage              </text:p></table:table-cell><table:table-cell  
+ table:style-name="TBL-3-3-3"><text:p  
+text:style-name="sty-R11C" >              Send to homepage              </text:p></table:table-cell><table:table-cell  
+ table:style-name="TBL-3-3-4"><text:p  
+text:style-name="sty-R11C" > Pass </text:p></table:table-cell>
+ </table:table-row><table:table-row  
+table:style-name="hline-row"><table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+<table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+<table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+<table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+</table:table-row> 
+<table:table-row  
+ table:style-name="TBL-3-4-"><table:table-cell  
+ table:style-name="TBL-3-4-1"><text:p  
+text:style-name="sty-LR11C" >server stops or rebooted</text:p></table:table-cell><table:table-cell  
+ table:style-name="TBL-3-4-2"><text:p  
+text:style-name="sty-R11C" >Start processing interrupted requests</text:p></table:table-cell><table:table-cell  
+ table:style-name="TBL-3-4-3"><text:p  
+text:style-name="sty-R11C" >Start processing interrupted requests</text:p></table:table-cell><table:table-cell  
+ table:style-name="TBL-3-4-4"><text:p  
+text:style-name="sty-R11C" > Pass </text:p></table:table-cell>
+ </table:table-row><table:table-row  
+table:style-name="hline-row"><table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+<table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+<table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+<table:table-cell table:style-name="hline-cell" table:value-type="string"><text:p text:style-name="hline-p-hr" /></table:table-cell> 
+</table:table-row> 
+<table:table-row  
+ table:style-name="TBL-3-5-"><table:table-cell  
+ table:style-name="TBL-3-5-1"><text:p  
+text:style-name="sty-LR11C" >                                      </text:p></table:table-cell></table:table-row></table:table>
+<!--l. 70--><text:p text:style-name="Text-body"> 
+<text:span text:style-name="caption" ><text:span text:style-name="caption-title" ><t4htlink 
+ href="#x1-250033" name="x1-250033">Table<text:s/>7.3</t4htlink>: </text:span>Test case (general)</text:span>
+                                                                                               
+                                                                                               
+   </text:p> 
+</text:section>
+                                                                                               
+                                                                                               
+   <!--end of subsection*--><!--end of subsection*--><!--end of section*--><!--end of chapter--><!--start of chapter--><text:p text:style-name="clearpage"></text:p><text:h text:style-name="Heading-1" text:outline-level="1" ><text:span text:style-name="chapter" >Chapter<text:s/>8 </text:span><text:line-break/><t4htlink 
+href="#x1-260008" name="x1-260008"></t4htlink>Practical-8</text:h> 
+
+<t4htlink 
+ href="#Q1-1-66" name="Q1-1-66"></t4htlink>
+<!--start of section*--><text:h text:style-name="Heading-2" text:outline-level="2" ><t4htlink 
+href="#x1-270008" name="x1-270008"></t4htlink><text:span 
+text:style-name="ptmr8t-x-x-160">Aim: Getting familiar and hands on practice with testing tools like win runner,</text:span>
+<text:span 
+text:style-name="ptmr8t-x-x-160">selenium etc.</text:span></text:h> 
+
+<!--l. 2--><text:p text:style-name="Text-body">Software Testing Tools in the market. Selection of tools is totally based on the project requirements &#x0026;
+commercial (Proprietary/Commercial tools) or free tools (Open Source Tools) you are interested. Off Course,
+free Testing Tools may have some limitation in the features list of the product, so it&#x00E2;&#x0102;&#x0179;s totally based on what
+are you looking for &#x0026; is that your requirement fulfill in free version or go for paid Software Testing Tools. The
+following tools can be used for automation testing:
+      </text:p> 
+<text:list text:style-name="Enumerate" > 
+
+      <text:list-item>
+      <text:p text:style-name="Inside-enumerate" ><text:span text:style-name="textbf" ><text:span 
+text:style-name="ptmb8t-x-x-120">HP Quick Test Professional:</text:span></text:span> HP QuickTest Professional was renamed to HPE Unified Functional Testing.
+      HPE UFT offers testing automation for functional and regression testing for the software
+      applications.Visual Basic Scripting Edition scripting language is used by this tool to register the test
+      processes and operates the various objects and controls in testing the applications. QTP offers various
+      features like:
+           </text:p> 
+<!--l. 9--><text:list text:style-name="Itemize" > 
+
+           <text:list-item>
+           <text:p text:style-name="Inside-itemize" >Integration with Mercury Business Process Testing and Mercury Quality Center
+           </text:p> 
+</text:list-item> 
+
+           <text:list-item>
+           <text:p text:style-name="Inside-itemize" >Unique Smart Object Recognition
+           </text:p> 
+</text:list-item> 
+
+           <text:list-item>
+           <text:p text:style-name="Inside-itemize" >Error handling mechanism
+           </text:p> 
+</text:list-item> 
+
+           <text:list-item>
+           <text:p text:style-name="Inside-itemize" >Creation of parameters for objects, checkpoints, and data-driven tables
+           </text:p> 
+</text:list-item> 
+
+           <text:list-item>
+           <text:p text:style-name="Inside-itemize" >Automated documentation</text:p> 
+</text:list-item> 
+</text:list > 
+
+      </text:list-item> 
+
+      <text:list-item>
+      <text:p text:style-name="Inside-enumerate" ><text:span text:style-name="textbf" ><text:span 
+text:style-name="ptmb8t-x-x-120">Selenium:</text:span></text:span> Selenium is a testing framework to perform web application testing across various browsers and
+      platforms like Windows, Mac, and Linux. Selenium helps the testers to write tests in various programming
+      languages like Java, PHP, C#, Python, Groovy, Ruby, and Perl. It offers record and playback features to
+                                                                                               
+                                                                                               
+      write tests without learning Selenium IDE. Selenium proudly supports some of the largest, yet
+      well-known browser vendors who make sure they have Selenium as a native part of their
+      browser. Selenium is undoubtedly the base for most of the other software testing tools in
+      general.
+      </text:p> 
+</text:list-item> 
+
+      <text:list-item>
+      <text:p text:style-name="Inside-enumerate" ><text:span text:style-name="textbf" ><text:span 
+text:style-name="ptmb8t-x-x-120">TestComplete:</text:span></text:span> TestComplete is a functional testing platform that offers various solutions to automate
+      testing for desktop, web, and mobile applications by SmartBear Software. TestComplete offers the
+      following features:
+           </text:p> 
+<!--l. 23--><text:list text:style-name="Itemize" > 
+
+           <text:list-item>
+           <text:p text:style-name="Inside-itemize" >GUI testing
+           </text:p> 
+</text:list-item> 
+
+           <text:list-item>
+           <text:p text:style-name="Inside-itemize" >Scripting Language Support: JavaScript, Python, VBScript, JScript, DelphiScript, C++Script
+           &#x0026; C#Script</text:p> 
+</text:list-item> 
+</text:list > 
+
+      </text:list-item> 
+
+      <text:list-item>
+      <text:p text:style-name="Inside-enumerate" ><text:span text:style-name="textbf" ><text:span 
+text:style-name="ptmb8t-x-x-120">WinRunner:</text:span></text:span> WinRunner is a program that is responsible for the automated testing of software. It is
+      designed to function with Windows applications, and it was designed by Mercury Interactive Corporation,
+      an organization that is based in California. WinRunner will allow you to make comparisons between
+      various outcomes. A series of wizards will be provided to the user, and these wizards can
+      create tests in an automated manner. Another impressive aspect of Winrunner is the ability
+      to record various interactions, and transform them into scripts. WinRunner is designed for
+      testing GUIs, or Graphic User Interfaces. When the user make an interaction with the GUI, this
+      interaction can be recorded. Recording the interactions will allow you to determine various
+      bugs that need to be fixed. The goal of WinRunner is to make sure business processes are
+      properly carried out. WinRunner uses TSL, or Test Script Language. The input of the user can
+      be customized at various levels. WinRunner will test the computer program in a way that is
+      very similar to normal user interactions. This is important, because it ensures a high level of
+      accuracy and realism. Even if an engineer is not physically present, the Recover manager will
+      troubleshoot any problems that may occur, and this will allow the tests to be completed without
+      errors
+      </text:p> 
+</text:list-item> 
+
+      <text:list-item>
+      <text:p text:style-name="Inside-enumerate" ><text:span text:style-name="textbf" ><text:span 
+text:style-name="ptmb8t-x-x-120">WATIR:</text:span></text:span> Watir is an open source testing tool made up of Ruby libraries to automate web application
+      testing. It is pronounced as &#x0022;water.&#x0022; Watir offers following features:
+                                                                                               
+                                                                                               
+           </text:p> 
+<!--l. 37--><text:list text:style-name="Itemize" > 
+
+           <text:list-item>
+           <text:p text:style-name="Inside-itemize" >Tests any language-based web application
+           </text:p> 
+</text:list-item> 
+
+           <text:list-item>
+           <text:p text:style-name="Inside-itemize" >Cross-browser testing
+           </text:p> 
+</text:list-item> 
+
+           <text:list-item>
+           <text:p text:style-name="Inside-itemize" >Compatible with business-driven development tools like RSpec, Cucumber, and Test/Unit
+           </text:p> 
+</text:list-item> 
+
+           <text:list-item>
+           <text:p text:style-name="Inside-itemize" >Tests web page&#x2019;s buttons, forms, links, and their responses</text:p> 
+</text:list-item> 
+</text:list > 
+
+      <text:p text:style-name="Inside-enumerate" ><text:span text:style-name="textbf" ><text:span 
+text:style-name="ptmb8t-x-x-120">Tools Implementation - process</text:span></text:span>
+           </text:p> 
+<text:list text:style-name="Enumerate" > 
+
+           <text:list-item>
+           <text:p text:style-name="Inside-enumerate" >Analyse the problem carefully to identify strengths, weaknesses and opportunities
+           </text:p> 
+</text:list-item> 
+
+           <text:list-item>
+           <text:p text:style-name="Inside-enumerate" >The Constraints such as budgets, time and other requirements are noted.
+           </text:p> 
+</text:list-item> 
+
+           <text:list-item>
+           <text:p text:style-name="Inside-enumerate" >Evaluating the options and Shortlisting the ones that are meets the requirement
+           </text:p> 
+</text:list-item> 
+
+           <text:list-item>
+           <text:p text:style-name="Inside-enumerate" >Developing the Proof of Concept which captures the pros and cons
+           </text:p> 
+</text:list-item> 
+
+           <text:list-item>
+           <text:p text:style-name="Inside-enumerate" >Create a Pilot Project using the selected tool within a specified team
+           </text:p> 
+</text:list-item> 
+
+           <text:list-item>
+           <text:p text:style-name="Inside-enumerate" >Rolling out the tool phase wise across the organization</text:p> 
+</text:list-item> 
+</text:list > 
+
+      </text:list-item> 
+</text:list > 
+
+                                                                                               
+                                                                                               
+   <!--end of section*--><!--end of chapter--><!--start of chapter--><text:p text:style-name="clearpage"></text:p><text:h text:style-name="Heading-1" text:outline-level="1" ><text:span text:style-name="chapter" >Chapter<text:s/>9 </text:span><text:line-break/><t4htlink 
+href="#x1-280009" name="x1-280009"></t4htlink>Practical-9</text:h> 
+
+<t4htlink 
+ href="#Q1-1-69" name="Q1-1-69"></t4htlink>
+<!--start of section*--><text:h text:style-name="Heading-2" text:outline-level="2" ><t4htlink 
+href="#x1-290009" name="x1-290009"></t4htlink><text:span 
+text:style-name="ptmr8t-x-x-160">Aim: Perform debugging using Big Tracking Tools like BUGZILLA or BUG</text:span>
+<text:span 
+text:style-name="ptmr8t-x-x-160">BIT</text:span></text:h> 
+
+<!--l. 4--><text:p text:style-name="Text-body"><text:span text:style-name="textbf" ><text:span 
+text:style-name="ptmb8t-x-x-120">SOFTWARE BUG</text:span></text:span><text:line-break 
+/>A software bug is an error, flaw, failure or fault in a computer program or system that causes it to produce an
+incorrect or unexpected result, or to behave in unintended ways. Most bugs arise from mistakes and
+errors made in either a program&#x2019;s source code or its design, or in components and operating systems
+used by such programs. A few are caused by compilers producing incorrect code. A program that
+contains a large number of bugs, and/or bugs that seriously interfere with its functionality, is said
+to be buggy (defective). Bugs trigger errors that may have ripple effects. Bugs may have subtle
+effects or cause the program to crash or freeze the computer. Others qualify as security bugs and
+might, for example, enable a malicious user to bypass access controls in order to obtain unauthorized
+privileges.<text:line-break 
+/><text:line-break 
+/><text:span text:style-name="textbf" ><text:span 
+text:style-name="ptmb8t-x-x-120">PREVENTION OF SOFTWARE BUG</text:span></text:span><text:line-break 
+/>The software industry has put much effort into reducing bug counts. These include:
+      </text:p> 
+<!--l. 10--><text:list text:style-name="Itemize" > 
+
+      <text:list-item>
+      <text:p text:style-name="Inside-itemize" ><text:span text:style-name="textbf" ><text:span 
+text:style-name="ptmb8t-x-x-120">Typographical errors</text:span></text:span><text:line-break 
+/>Bugs   usually   appear   when   the   programmer   makes   a   logic   error.   Various   innovations   in
+      programming style and defensive programming are designed to make these bugs less likely, or
+      easier  to  spot.  Some  typos,  especially  of  symbols  or  logical/mathematical  operators,  allow  the
+      program to operate incorrectly, while others such as a missing symbol or misspelled name may
+      prevent the program from operating. Compiled languages can reveal some typos when the source
+      code is compiled.<text:line-break 
+/>
+      </text:p> 
+</text:list-item> 
+
+      <text:list-item>
+      <text:p text:style-name="Inside-itemize" ><text:span text:style-name="textbf" ><text:span 
+text:style-name="ptmb8t-x-x-120">Development methodologies</text:span></text:span><text:line-break 
+/>Several schemes assist managing programmer activity so that fewer bugs are produced. Software
+      engineering (which addresses software design issues as well) applies many techniques to prevent
+      defects. For example, formal program specifications state the exact behaviour of programs so that
+      design bugs may be eliminated. Unfortunately, formal specifications are impractical for anything
+      but the shortest programs, because of problems of combinatorial explosion and indeterminacy. Unit
+      testing involves writing a test for every function (unit) that a program is to perform. In test-driven
+      development unit tests are written before the code and the code is not considered complete until all
+      tests complete successfully. Agile software development involves frequent software releases with
+                                                                                               
+                                                                                               
+      relatively small changes. Defects are revealed by user feedback. Open source development allows
+      anyone to examine source code. A school of thought popularized by Eric S. Raymond as Linus&#x2019;s
+      Law says that popular open-source software has more chance of having few or no bugs than other
+      software, because &#x0022;given enough eyeballs, all bugs are shallow&#x0022;. This assertion has been disputed,
+      however: computer security specialist Elias Levy wrote that &#x0022;it is easy to hide vulnerabilities in
+      complex, little understood and undocumented source code,&#x0022; because, &#x0022;even if people are reviewing
+      the code, that doesn&#x2019;t mean they&#x2019;re qualified to do so.&#x0022; An example of this actually happening,
+      accidentally, was the 2008 OpenSSL vulnerability in Debian.<text:line-break 
+/>
+      </text:p> 
+</text:list-item> 
+
+      <text:list-item>
+      <text:p text:style-name="Inside-itemize" ><text:span text:style-name="textbf" ><text:span 
+text:style-name="ptmb8t-x-x-120">Programming language support</text:span></text:span><text:line-break 
+/>Programming  languages  include  features  to  help  prevent  bugs,  such  as  static  type  systems,
+      restricted  namespaces  and  modular  programming.  For  example,  when  a  programmer  writes
+      (pseudocode) LET REAL_VALUE PI = &#x0022;THREE AND A BIT&#x0022;, although this may be syntactically
+      correct,  the  code  fails  a  type  check.  Compiled  languages  catch  this  without  having  to  run  the
+      program. Interpreted languages catch such errors at runtime. Some languages deliberate exclude
+      features  that  easily  lead  to  bugs,  at  the  expense  of  slower  performance:  the  general  principle
+      being that, it is almost always better to write simpler, slower code than inscrutable code that runs
+      slightly faster, especially considering that maintenance cost is substantial. For example, the Java
+      programming language does not support pointer arithmetic; implementations of some languages
+      such as Pascal and scripting languages often have runtime bounds checking of arrays, at least in a
+      debugging build.
+      </text:p> 
+</text:list-item> 
+
+      <text:list-item>
+      <text:p text:style-name="Inside-itemize" ><text:span text:style-name="textbf" ><text:span 
+text:style-name="ptmb8t-x-x-120">Code analysis</text:span></text:span><text:line-break 
+/>Tools  for  code  analysis  help  developers  by  inspecting  the  program  text  beyond  the  compiler&#x2019;s
+      capabilities to spot potential problems. Although in general the problem of finding all programming
+      errors given a specification is not solvable (see halting problem), these tools exploit the fact that
+      human programmers tend to make certain kinds of simple mistakes often when writing software.
+      </text:p> 
+</text:list-item> 
+
+      <text:list-item>
+      <text:p text:style-name="Inside-itemize" ><text:span text:style-name="textbf" ><text:span 
+text:style-name="ptmb8t-x-x-120">Instrumentation</text:span></text:span><text:line-break 
+/>Tools to monitor the performance of the software as it is running, either specifically to find problems
+      such  as  bottlenecks  or  to  give  assurance  as  to  correct  working,  may  be  embedded  in  the  code
+      explicitly (perhaps as simple as a statement saying PRINT &#x0022;I AM HERE&#x0022;), or provided as tools. It
+      is often a surprise to find where most of the time is taken by a piece of code, and this removal of
+      assumptions might cause the code to be rewritten.</text:p> 
+</text:list-item> 
+</text:list > 
+
+                                                                                               
+                                                                                               
+<!--l. 25--><text:p text:style-name="Text-body"><text:span text:style-name="textbf" ><text:span 
+text:style-name="ptmb8t-x-x-120">DEBUGGING</text:span></text:span><text:line-break 
+/>Finding and fixing bugs, or debugging, is a major part of computer programming. the most difficult part of
+debugging is finding the bug. Once it is found, correcting it is usually relatively easy. Programs known as
+debuggers help programmers locate bugs by executing code line by line, watching variable values, and other
+features to observe program behaviour. Without a debugger, code may be added so that messages or values may
+be written to a console or to a window or log file to trace program execution or show values. However, even with
+the aid of a debugger, locating bugs is something of an art. It is not uncommon for a bug in one section of a
+program to cause failures in a completely different section, [citation needed] thus making it especially difficult to
+track (for example, an error in a graphics rendering routine causing a file I/O routine to fail), in an
+apparently unrelated part of the system. Sometimes, a bug is not an isolated flaw, but represents an error
+of thinking or planning on the part of the programmer. Such logic errors require a section of the
+program to be overhauled or rewritten. As a part of code review, stepping through the code and
+imagining or transcribing the execution process may often find errors without ever reproducing the bug
+as such. More typically, the first step in locating a bug is to reproduce it reliably. Once the bug is
+reproducible, the programmer may use a debugger or other tool while reproducing the error to find the
+point at which the program went astray. Some bugs are revealed by inputs that may be difficult
+for the programmer to re-create. One cause of the Therac-25 radiation machine deaths was a bug
+(specifically, a race condition) that occurred only when the machine operator very rapidly entered a
+treatment plan; it took days of practice to become able to do this, so the bug did not manifest in
+testing or when the manufacturer attempted to duplicate it. Other bugs may disappear when the
+program is run with a debugger; these heisenbugs (humorously named after the Heisenberg uncertainty
+principle).<text:line-break 
+/><text:line-break 
+/><text:span text:style-name="textbf" ><text:span 
+text:style-name="ptmb8t-x-x-120">BUGZILLA</text:span></text:span><text:line-break 
+/>Bugzilla is a web-based general-purpose bugtracker and testing tool originally developed and used by the
+Mozilla project, and licensed under the Mozilla Public License. Released as open-source software by Netscape
+Communications in 1998, it has been adopted by a variety of organizations for use as a bug tracking system for
+both free and open-source software and proprietary projects and products. Bugzilla is used, among others, by the
+Mozilla Foundation, WebKit, Linux kernel, FreeBSD, GNOME, KDE, Apache, Red Hat, Eclipse and
+LibreOffice. It is also self-hosting.<text:line-break 
+/><text:line-break 
+/><text:span text:style-name="textbf" ><text:span 
+text:style-name="ptmb8t-x-x-120">REQUIREMENTS OF BUGZILLA:</text:span></text:span><text:line-break 
+/>Bugzilla&#x2019;s system requirements include:
+      </text:p> 
+<!--l. 37--><text:list text:style-name="Itemize" > 
+
+      <text:list-item>
+      <text:p text:style-name="Inside-itemize" >A compatible database management system
+      </text:p> 
+</text:list-item> 
+
+      <text:list-item>
+      <text:p text:style-name="Inside-itemize" >A suitable release of Perl 5
+                                                                                               
+                                                                                               
+      </text:p> 
+</text:list-item> 
+
+      <text:list-item>
+      <text:p text:style-name="Inside-itemize" >An assortment of Perl modules
+      </text:p> 
+</text:list-item> 
+
+      <text:list-item>
+      <text:p text:style-name="Inside-itemize" >A compatible web server
+      </text:p> 
+</text:list-item> 
+
+      <text:list-item>
+      <text:p text:style-name="Inside-itemize" >A suitable mail transfer agent, or any SMTP server</text:p> 
+</text:list-item> 
+</text:list > 
+
+<!--l. 43--><text:p text:style-name="Text-body">Currently supported database systems are MySQL, PostgreSQL, Oracle, and SQLite. Bugzilla is usually installed on
+Linux using the Apache HTTP Server, but any web server that supports CGI such as Lighttpd, Hiawatha,
+Cherokee can be used. Bugzilla&#x2019;s installation process is command line driven and runs through a series of stages
+where system requirements and software capabilities are checked.
+                                                                                               
+                                                                                               
+   </text:p> 
+<!--end of section*--><!--end of chapter--></office:text></office:body> 
+</office:document-content>
+                                                                                               
+
+

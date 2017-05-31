@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE manifest:manifest PUBLIC "-//OpenOffice.org//DTD Manifest 2.0//EN" "Manifest.dtd"> 
+<manifest:manifest xmlns:manifest = "urn:oasis:names:tc:opendocument:xmlns:manifest:1.0"> 
+<manifest:file-entry manifest:media-type="application/vnd.oasis.opendocument.text" manifest:full-path="/"/> <manifest:file-entry manifest:media-type="" manifest:full-path="Pictures/"/> 
+<manifest:file-entry manifest:media-type="text/xml" manifest:full-path="content.xml"/> 
+<manifest:file-entry manifest:media-type="text/xml" manifest:full-path="styles.xml"/> 
+<manifest:file-entry manifest:media-type="text/xml" manifest:full-path="meta.xml"/> 
+<manifest:file-entry manifest:media-type="text/xml" manifest:full-path="settings.xml"/> 
+<manifest:file-entry manifest:full-path="Pictures/input/images/gne.jpg"/> 
+<manifest:file-entry manifest:full-path="Pictures/input/images/image30.jpeg"/> 
+<manifest:file-entry manifest:full-path="Pictures/input/images/image32.jpeg"/> 
+<manifest:file-entry manifest:full-path="Pictures/input/images/image33.jpeg"/> 
+<manifest:file-entry manifest:full-path="Pictures/input/images/image34.jpeg"/> 
+<manifest:file-entry manifest:full-path="Pictures/input/images/image35.jpeg"/> 
+<manifest:file-entry manifest:full-path="Pictures/input/images/image36.jpeg"/> 
+<manifest:file-entry manifest:full-path="Pictures/input/images/img1.png"/> 
+<manifest:file-entry manifest:full-path="Pictures/input/images/img2.png"/> 
+<manifest:file-entry manifest:full-path="Pictures/input/images/img3.png"/> 
+<manifest:file-entry manifest:full-path="Pictures/input/images/reportchart.png"/> 
+<manifest:file-entry manifest:full-path="Pictures/input/images/RBS.png"/> 
+<manifest:file-entry manifest:full-path="Pictures/input/images/resources.png"/> 
+<manifest:file-entry manifest:full-path="Pictures/input/images/sefinal.png"/> 
+<manifest:file-entry manifest:full-path="Pictures/input/images/his.png"/> 
+<manifest:file-entry manifest:full-path="Pictures/input/images/rseu.png"/> 
+<manifest:file-entry manifest:full-path="Pictures/input/images/final0.png"/> 
+<manifest:file-entry manifest:full-path="Pictures/input/images/final1.png"/> 
+<manifest:file-entry manifest:full-path="Pictures/input/images/dfdf.png"/> 
+</manifest:manifest> 

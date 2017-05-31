@@ -1,0 +1,71 @@
+htfcss: ptmri8t font-style: italic;
+htfcss: ptmbi8t  font-weight: bold;   font-style: italic;
+htfcss: ptmb8t   font-weight: bold;
+htfcss: ptmb8t   font-weight: bold;
+htfcss: ptmb8t   font-weight: bold;
+htfcss: ptmb8t   font-weight: bold;
+htfcss: cmmi font-style: italic;
+htfcss: cmmib font-style: italic; font-weight: bold;
+htfcss: cmbsy font-weight: bold;
+htfcss: cmbsy font-weight: bold;
+htfcss: cmbsy font-weight: bold;
+File: report.4oo
+File: report.tmp
+File: report-settings.4os
+File: report-styles.4oy
+File: report-manifest.4of
+File: report-meta.4ot
+File: input/images/gne.jpg.4og
+File: input/images/image30.jpeg.4og
+File: input/images/image32.jpeg.4og
+File: input/images/image33.jpeg.4og
+File: input/images/image34.jpeg.4og
+File: input/images/image35.jpeg.4og
+File: input/images/image36.jpeg.4og
+File: input/images/img1.png.4og
+File: input/images/img2.png.4og
+File: input/images/img3.png.4og
+File: input/images/reportchart.png.4og
+File: input/images/RBS.png.4og
+File: input/images/resources.png.4og
+File: input/images/sefinal.png.4og
+File: input/images/his.png.4og
+File: input/images/rseu.png.4og
+File: input/images/final0.png.4og
+File: input/images/final1.png.4og
+File: input/images/dfdf.png.4og
+File: report.4od
+File: report.odt
+Font_Size: 12
+--- characters ---
+Font("cmr","12","12","100")
+Font("cmmi","12","12","100")
+Font("cmsy","10","10","120")
+Font("cmex","10","10","120")
+Font("msam","10","10","120")
+Font("msbm","10","10","120")
+Font("ptmr8t","","10","120")
+Font("cmbsy","10","10","120")
+Font("cmbsy","10","10","80")
+Font("cmbsy","7","7","85")
+Font("cmex","8","8","100")
+Font("cmex","7","7","85")
+Font("msam","10","10","80")
+Font("msam","7","7","85")
+Font("msbm","10","10","80")
+Font("msbm","7","7","85")
+Font("cmr","8","8","100")
+Font("cmr","6","6","100")
+Font("cmmi","8","8","100")
+Font("cmmi","6","6","100")
+Font("cmsy","8","8","100")
+Font("cmsy","6","6","100")
+Font("ptmb8t","","10","248")
+Font("ptmb8t","","10","172")
+Font("ptmr8t","","10","172")
+Font("ptmb8t","","10","144")
+Font("ptmr8t","","10","144")
+Font("ptmr8t","","10","160")
+Font("ptmb8t","","10","120")
+Font("ptmbi8t","","10","120")
+Font("ptmri8t","","10","120")
