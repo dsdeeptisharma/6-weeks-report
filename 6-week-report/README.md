@@ -11,6 +11,6 @@ It will produce a pdf file named "report.pdf" in the current directory. Open tha
     evince report.pdf
 
 ======Thanks======
-Mandeep Singh
-mandeep7.wordpress.com
+Deepti Sharma
+deepti96.wordpress.com
 github.com/mandeeps708
