@@ -1,0 +1,569 @@
+InfoBegin
+InfoKey: ModDate
+InfoValue: D:20180424074732+05'30'
+InfoBegin
+InfoKey: PTEX.Fullbanner
+InfoValue: This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) kpathsea version 6.1.1
+InfoBegin
+InfoKey: CreationDate
+InfoValue: D:20180424074732+05'30'
+InfoBegin
+InfoKey: Creator
+InfoValue: LaTeX with hyperref package
+InfoBegin
+InfoKey: Producer
+InfoValue: pdfTeX-1.40.14
+PdfID0: 5088607ae17b1fecf266936454ddd0b1
+PdfID1: 5088607ae17b1fecf266936454ddd0b1
+NumberOfPages: 47
+BookmarkBegin
+BookmarkTitle: Introduction
+BookmarkLevel: 1
+BookmarkPageNumber: 9
+BookmarkBegin
+BookmarkTitle: Introduction to Project
+BookmarkLevel: 2
+BookmarkPageNumber: 9
+BookmarkBegin
+BookmarkTitle: What is SamanyaSeva?
+BookmarkLevel: 3
+BookmarkPageNumber: 9
+BookmarkBegin
+BookmarkTitle: Who uses SamanyaSeva
+BookmarkLevel: 3
+BookmarkPageNumber: 10
+BookmarkBegin
+BookmarkTitle: Why SamanyaSeva?
+BookmarkLevel: 3
+BookmarkPageNumber: 10
+BookmarkBegin
+BookmarkTitle: Project Category
+BookmarkLevel: 2
+BookmarkPageNumber: 10
+BookmarkBegin
+BookmarkTitle: Objective of Project
+BookmarkLevel: 2
+BookmarkPageNumber: 11
+BookmarkBegin
+BookmarkTitle: Problem Formulation
+BookmarkLevel: 2
+BookmarkPageNumber: 11
+BookmarkBegin
+BookmarkTitle: Need and Significance
+BookmarkLevel: 2
+BookmarkPageNumber: 11
+BookmarkBegin
+BookmarkTitle: The Existing System
+BookmarkLevel: 2
+BookmarkPageNumber: 11
+BookmarkBegin
+BookmarkTitle: Limitations of previous system 
+BookmarkLevel: 3
+BookmarkPageNumber: 11
+BookmarkBegin
+BookmarkTitle: Technologies Used
+BookmarkLevel: 2
+BookmarkPageNumber: 12
+BookmarkBegin
+BookmarkTitle: Unique Features of Proposed System
+BookmarkLevel: 2
+BookmarkPageNumber: 12
+BookmarkBegin
+BookmarkTitle: Requirement Analysis and System Specification
+BookmarkLevel: 1
+BookmarkPageNumber: 13
+BookmarkBegin
+BookmarkTitle: Feasibility Study
+BookmarkLevel: 2
+BookmarkPageNumber: 13
+BookmarkBegin
+BookmarkTitle: Types of Feasibility
+BookmarkLevel: 2
+BookmarkPageNumber: 13
+BookmarkBegin
+BookmarkTitle: Technical Feasibility
+BookmarkLevel: 3
+BookmarkPageNumber: 14
+BookmarkBegin
+BookmarkTitle: Economic Feasibility
+BookmarkLevel: 3
+BookmarkPageNumber: 15
+BookmarkBegin
+BookmarkTitle: Safety Feasibility
+BookmarkLevel: 3
+BookmarkPageNumber: 16
+BookmarkBegin
+BookmarkTitle: Operational Feasibility
+BookmarkLevel: 3
+BookmarkPageNumber: 16
+BookmarkBegin
+BookmarkTitle: Legal Feasibility
+BookmarkLevel: 3
+BookmarkPageNumber: 16
+BookmarkBegin
+BookmarkTitle: Technological Feasibility
+BookmarkLevel: 3
+BookmarkPageNumber: 16
+BookmarkBegin
+BookmarkTitle: Behavioral Feasibility
+BookmarkLevel: 3
+BookmarkPageNumber: 17
+BookmarkBegin
+BookmarkTitle: Software Requirement Specification Document
+BookmarkLevel: 2
+BookmarkPageNumber: 18
+BookmarkBegin
+BookmarkTitle: Data Requirements
+BookmarkLevel: 3
+BookmarkPageNumber: 18
+BookmarkBegin
+BookmarkTitle: Dependability Requirements
+BookmarkLevel: 3
+BookmarkPageNumber: 18
+BookmarkBegin
+BookmarkTitle: Look and feel Requirements
+BookmarkLevel: 3
+BookmarkPageNumber: 18
+BookmarkBegin
+BookmarkTitle: Functional Requirements
+BookmarkLevel: 3
+BookmarkPageNumber: 18
+BookmarkBegin
+BookmarkTitle: Non functional requirements
+BookmarkLevel: 3
+BookmarkPageNumber: 19
+BookmarkBegin
+BookmarkTitle: Security requirements
+BookmarkLevel: 3
+BookmarkPageNumber: 19
+BookmarkBegin
+BookmarkTitle: Validation
+BookmarkLevel: 2
+BookmarkPageNumber: 19
+BookmarkBegin
+BookmarkTitle: Expected Hurdles
+BookmarkLevel: 2
+BookmarkPageNumber: 20
+BookmarkBegin
+BookmarkTitle: SDLC Model to be used
+BookmarkLevel: 2
+BookmarkPageNumber: 21
+BookmarkBegin
+BookmarkTitle: System Design
+BookmarkLevel: 1
+BookmarkPageNumber: 22
+BookmarkBegin
+BookmarkTitle: Design Approach
+BookmarkLevel: 2
+BookmarkPageNumber: 22
+BookmarkBegin
+BookmarkTitle: Detail Designing using Tools
+BookmarkLevel: 2
+BookmarkPageNumber: 22
+BookmarkBegin
+BookmarkTitle: DFDs
+BookmarkLevel: 3
+BookmarkPageNumber: 22
+BookmarkBegin
+BookmarkTitle: Flowchart
+BookmarkLevel: 3
+BookmarkPageNumber: 23
+BookmarkBegin
+BookmarkTitle: UI Flow Diagram
+BookmarkLevel: 2
+BookmarkPageNumber: 24
+BookmarkBegin
+BookmarkTitle: Database Design
+BookmarkLevel: 2
+BookmarkPageNumber: 25
+BookmarkBegin
+BookmarkTitle: ER Diagram
+BookmarkLevel: 3
+BookmarkPageNumber: 25
+BookmarkBegin
+BookmarkTitle:  Methodology
+BookmarkLevel: 2
+BookmarkPageNumber: 26
+BookmarkBegin
+BookmarkTitle: Implementation, Testing, and Maintenance
+BookmarkLevel: 1
+BookmarkPageNumber: 27
+BookmarkBegin
+BookmarkTitle: Introduction to Languages, IDE's, Tools and Technologies
+BookmarkLevel: 2
+BookmarkPageNumber: 27
+BookmarkBegin
+BookmarkTitle: Introduction to Languages
+BookmarkLevel: 3
+BookmarkPageNumber: 27
+BookmarkBegin
+BookmarkTitle: HTML
+BookmarkLevel: 4
+BookmarkPageNumber: 27
+BookmarkBegin
+BookmarkTitle: CSS
+BookmarkLevel: 4
+BookmarkPageNumber: 28
+BookmarkBegin
+BookmarkTitle: Javascript
+BookmarkLevel: 4
+BookmarkPageNumber: 28
+BookmarkBegin
+BookmarkTitle: jQuery
+BookmarkLevel: 4
+BookmarkPageNumber: 29
+BookmarkBegin
+BookmarkTitle: Introduction to Frameworks
+BookmarkLevel: 3
+BookmarkPageNumber: 29
+BookmarkBegin
+BookmarkTitle: Django
+BookmarkLevel: 4
+BookmarkPageNumber: 30
+BookmarkBegin
+BookmarkTitle: Bootstrap
+BookmarkLevel: 4
+BookmarkPageNumber: 30
+BookmarkBegin
+BookmarkTitle: Tools &amp; Technologies
+BookmarkLevel: 3
+BookmarkPageNumber: 30
+BookmarkBegin
+BookmarkTitle: Doxygen
+BookmarkLevel: 4
+BookmarkPageNumber: 30
+BookmarkBegin
+BookmarkTitle: LaTeX
+BookmarkLevel: 3
+BookmarkPageNumber: 32
+BookmarkBegin
+BookmarkTitle: MySQL
+BookmarkLevel: 4
+BookmarkPageNumber: 33
+BookmarkBegin
+BookmarkTitle: HoverCraft
+BookmarkLevel: 4
+BookmarkPageNumber: 33
+BookmarkBegin
+BookmarkTitle: Git &amp; GitHub
+BookmarkLevel: 4
+BookmarkPageNumber: 34
+BookmarkBegin
+BookmarkTitle: Project Scheduling
+BookmarkLevel: 2
+BookmarkPageNumber: 34
+BookmarkBegin
+BookmarkTitle: Gantt Chart
+BookmarkLevel: 3
+BookmarkPageNumber: 35
+BookmarkBegin
+BookmarkTitle: Network Diagram
+BookmarkLevel: 3
+BookmarkPageNumber: 36
+BookmarkBegin
+BookmarkTitle: Testing
+BookmarkLevel: 2
+BookmarkPageNumber: 36
+BookmarkBegin
+BookmarkTitle: Results and Discussions
+BookmarkLevel: 1
+BookmarkPageNumber: 38
+BookmarkBegin
+BookmarkTitle: User Interface Representation
+BookmarkLevel: 2
+BookmarkPageNumber: 38
+BookmarkBegin
+BookmarkTitle:  Brief Description of Various Modules of the system
+BookmarkLevel: 2
+BookmarkPageNumber: 38
+BookmarkBegin
+BookmarkTitle: UserAccounts
+BookmarkLevel: 3
+BookmarkPageNumber: 38
+BookmarkBegin
+BookmarkTitle: Bills
+BookmarkLevel: 3
+BookmarkPageNumber: 38
+BookmarkBegin
+BookmarkTitle: Suspense
+BookmarkLevel: 3
+BookmarkPageNumber: 38
+BookmarkBegin
+BookmarkTitle: Reports
+BookmarkLevel: 3
+BookmarkPageNumber: 38
+BookmarkBegin
+BookmarkTitle: Generate Registers
+BookmarkLevel: 3
+BookmarkPageNumber: 42
+BookmarkBegin
+BookmarkTitle: Snapshots of Database Tables with brief description
+BookmarkLevel: 2
+BookmarkPageNumber: 43
+BookmarkBegin
+BookmarkTitle: BackEnd Representation
+BookmarkLevel: 2
+BookmarkPageNumber: 44
+BookmarkBegin
+BookmarkTitle: 
+BookmarkLevel: 2
+BookmarkPageNumber: 44
+BookmarkBegin
+BookmarkTitle: Conclusion and Future Scope 
+BookmarkLevel: 1
+BookmarkPageNumber: 45
+BookmarkBegin
+BookmarkTitle: Future Scope
+BookmarkLevel: 2
+BookmarkPageNumber: 45
+BookmarkBegin
+BookmarkTitle: Conclusion
+BookmarkLevel: 2
+BookmarkPageNumber: 45
+PageMediaBegin
+PageMediaNumber: 1
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 2
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 3
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 4
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 5
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 6
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 7
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 8
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 9
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 10
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 11
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 12
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 13
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 14
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 15
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 16
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 17
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 18
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 19
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 20
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 21
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 22
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 23
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 24
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 25
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 26
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 27
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 28
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 29
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 30
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 31
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 32
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 33
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 34
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 35
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 36
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 37
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 38
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 39
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 40
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 41
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 42
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 43
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 44
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 45
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 46
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 47
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageLabelBegin
+PageLabelNewIndex: 1
+PageLabelStart: 1
+PageLabelNumStyle: DecimalArabicNumerals
+PageLabelBegin
+PageLabelNewIndex: 2
+PageLabelStart: 1
+PageLabelNumStyle: UppercaseRomanNumerals
+PageLabelBegin
+PageLabelNewIndex: 8
+PageLabelStart: 1
+PageLabelNumStyle: DecimalArabicNumerals
