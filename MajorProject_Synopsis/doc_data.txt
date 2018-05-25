@@ -1,0 +1,161 @@
+InfoBegin
+InfoKey: ModDate
+InfoValue: D:20180220184034+05'30'
+InfoBegin
+InfoKey: PTEX.Fullbanner
+InfoValue: This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) kpathsea version 6.1.1
+InfoBegin
+InfoKey: CreationDate
+InfoValue: D:20180220184034+05'30'
+InfoBegin
+InfoKey: Creator
+InfoValue: LaTeX with hyperref package
+InfoBegin
+InfoKey: Producer
+InfoValue: pdfTeX-1.40.14
+PdfID0: 542a8e5ec68b289123020fc778795c6d
+PdfID1: 542a8e5ec68b289123020fc778795c6d
+NumberOfPages: 11
+BookmarkBegin
+BookmarkTitle: Introduction to Project
+BookmarkLevel: 1
+BookmarkPageNumber: 5
+BookmarkBegin
+BookmarkTitle: Overview
+BookmarkLevel: 2
+BookmarkPageNumber: 5
+BookmarkBegin
+BookmarkTitle: What is SamanyaSeva?
+BookmarkLevel: 3
+BookmarkPageNumber: 5
+BookmarkBegin
+BookmarkTitle: The Existing System
+BookmarkLevel: 2
+BookmarkPageNumber: 5
+BookmarkBegin
+BookmarkTitle: Limitations of previous system 
+BookmarkLevel: 3
+BookmarkPageNumber: 6
+BookmarkBegin
+BookmarkTitle: Technologies Used
+BookmarkLevel: 2
+BookmarkPageNumber: 6
+BookmarkBegin
+BookmarkTitle: Objective of Project
+BookmarkLevel: 2
+BookmarkPageNumber: 6
+BookmarkBegin
+BookmarkTitle: Feasibility Study
+BookmarkLevel: 1
+BookmarkPageNumber: 7
+BookmarkBegin
+BookmarkTitle: Feasibility
+BookmarkLevel: 2
+BookmarkPageNumber: 7
+BookmarkBegin
+BookmarkTitle: Technical Feasibility
+BookmarkLevel: 3
+BookmarkPageNumber: 7
+BookmarkBegin
+BookmarkTitle: Economical Feasibility
+BookmarkLevel: 3
+BookmarkPageNumber: 7
+BookmarkBegin
+BookmarkTitle: Need and Significance
+BookmarkLevel: 2
+BookmarkPageNumber: 7
+BookmarkBegin
+BookmarkTitle: Planning of Work
+BookmarkLevel: 1
+BookmarkPageNumber: 8
+BookmarkBegin
+BookmarkTitle:  Methodology
+BookmarkLevel: 2
+BookmarkPageNumber: 8
+BookmarkBegin
+BookmarkTitle: Progress
+BookmarkLevel: 2
+BookmarkPageNumber: 9
+BookmarkBegin
+BookmarkTitle: Requirement Analysis
+BookmarkLevel: 1
+BookmarkPageNumber: 10
+BookmarkBegin
+BookmarkTitle: Software Requirements
+BookmarkLevel: 2
+BookmarkPageNumber: 10
+BookmarkBegin
+BookmarkTitle: Hardware Requirements
+BookmarkLevel: 2
+BookmarkPageNumber: 10
+BookmarkBegin
+BookmarkTitle: Expected Outcome
+BookmarkLevel: 2
+BookmarkPageNumber: 10
+PageMediaBegin
+PageMediaNumber: 1
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 2
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 3
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 4
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 5
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 6
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 7
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 8
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 9
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 10
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 11
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageLabelBegin
+PageLabelNewIndex: 1
+PageLabelStart: 1
+PageLabelNumStyle: DecimalArabicNumerals
+PageLabelBegin
+PageLabelNewIndex: 2
+PageLabelStart: 1
+PageLabelNumStyle: UppercaseRomanNumerals
+PageLabelBegin
+PageLabelNewIndex: 5
+PageLabelStart: 1
+PageLabelNumStyle: DecimalArabicNumerals
